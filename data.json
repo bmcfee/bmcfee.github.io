@@ -5,11 +5,11 @@
 
         {"name":    "AotM-2011",
          "url":     "http://cosmal.ucsd.edu/cal/projects/aotm2011/",
-         "desc":    "Annotated playlists from <a href=\"http://www.artofthemix.org\">Art of the Mix</a>, indexed to the <a href=\"http://labrosa.ee.columbia.edu/millionsong/\">Million Song Dataset</a>.  2011 version."},
+         "desc":    "Annotated playlists from <a href=\"http://www.artofthemix.org\">Art of the Mix</a>, indexed to the <a href=\"http://labrosa.ee.columbia.edu/millionsong/\">Million Song Dataset</a>."},
 
         {"name":    "AotM-2003",
          "url":     "data/playlists.html",
-         "desc":    "An <a href=\"http://labrosa.ee.columbia.edu/projects/musicsim/aotm.html\">earlier collection</a> of playlists from <a href=\"http://www.artofthemix.org\">Art of the Mix</a>, also indexed to the <a href=\"http://labrosa.ee.columbia.edu/millionsong/\">Million Song Dataset</a>. 2003 version."},
+         "desc":    "An <a href=\"http://labrosa.ee.columbia.edu/projects/musicsim/aotm.html\">earlier collection</a> of playlists from <a href=\"http://www.artofthemix.org\">Art of the Mix</a>, also indexed to the <a href=\"http://labrosa.ee.columbia.edu/millionsong/\">Million Song Dataset</a>."},
 
         {"name":    "aset400 kernels",
          "url":     "http://mkl.ucsd.edu/dataset/aset400-heterogeneous-embedding",
