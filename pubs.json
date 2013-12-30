@@ -42,7 +42,7 @@
         "date"      : "2012",
         "bib"       : "papers/msdchallenge.bib",
         "pdf"       : "papers/msdchallenge.pdf",
-        "notes"     : "<a href=\"http://www.kaggle.com/c/msdchallenge/\">MSD Challenge on Kaggle</a>",
+        "data"      : "http://www.kaggle.com/c/msdchallenge/",
         "tags"      : ["music", "recommender systems"]},
 
     {   "title"     : "Learning content similarity for music recommendation",
