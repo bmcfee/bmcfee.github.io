@@ -46,8 +46,7 @@
                 <p>
                     In May, 2012, I defended my dissertation, titled 
                         <em>More like this: machine learning approaches to music similarity</em> [<small><a
-                        href="papers/bmcfee_dissertation.bib"><span class="glyphicon glyphicon-retweet text-hide" alt="bib">bib</span></a>|<a href="papers/bmcfee_dissertation.pdf"><span
-                        class="glyphicon glyphicon-file text-hide" alt="pdf">pdf</span></a></small>].
+                        href="papers/bmcfee_dissertation.bib"><span class="glyphicon glyphicon-retweet" alt="bib"></span></a>|<a href="papers/bmcfee_dissertation.pdf"><span class="glyphicon glyphicon-file" alt="pdf"></span></a></small>].
                 </p>
 
                 <p>
@@ -80,22 +79,22 @@
                                 {{ pub.date }} 
                                 <div>
                                 {% if pub.slides %}
-                                    <a href="{{ pub.slides }}"><span class="text-hide glyphicon glyphicon-film">slides</span></a> |
+                                    <a href="{{ pub.slides }}"><span class="glyphicon glyphicon-film"></span></a> |
                                 {% endif %}
                                 {% if pub.poster %}
-                                    <a href="{{ pub.poster }}"><span class="text-hide glyphicon glyphicon-picture">poster</span></a> |
+                                    <a href="{{ pub.poster }}"><span class="glyphicon glyphicon-picture"></span></a> |
                                 {% endif %}
                                 {% if pub.code %}
-                                    <a href="{{ pub.code }}"><span class="text-hide glyphicon glyphicon-cog">code</span></a> |
+                                    <a href="{{ pub.code }}"><span class="glyphicon glyphicon-cog"></span></a> |
                                 {% endif %}
                                 {% if pub.data %}
-                                    <a href="{{ pub.data }}"><span class="text-hide glyphicon glyphicon-folder-open">data</span></a> |
+                                    <a href="{{ pub.data }}"><span class="glyphicon glyphicon-folder-open"></span></a> |
                                 {% endif %}
                                 {% if pub.bib %}
-                                    <a href="{{ pub.bib }}"><span class="text-hide glyphicon glyphicon-retweet">bib</span></a> | 
+                                    <a href="{{ pub.bib }}"><span class="glyphicon glyphicon-retweet"></span></a> | 
                                 {% endif %}
                                 {% if pub.pdf %}
-                                    <a href="{{ pub.pdf }}"><span class="text-hide glyphicon glyphicon-file">pdf</span></a>
+                                    <a href="{{ pub.pdf }}"><span class="glyphicon glyphicon-file"></span></a>
                                 {% endif %}
                                 </div>
                                 {% if pub.notes %}
