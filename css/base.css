@@ -1,5 +1,4 @@
 body {
-    padding-top:    40px;
     padding-bottom: 40px;
     margin:         10px;
     text-align:     justify;
@@ -8,10 +7,6 @@ body {
 .container-narrow {
     margin: 0 auto;
     max-width: 800px;
-}
-
-.container-narrow > hr {
-    margin: 15px 15px;
 }
 
 .main {
