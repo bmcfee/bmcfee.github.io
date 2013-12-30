@@ -4,24 +4,30 @@
         <meta charset="utf-8">
         <title>Brian McFee</title>
 
-        <link rel="stylesheet"      href="bootstrap/css/bootstrap-yeti.min.css">
+        <link rel="stylesheet"      href="bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet"      href="css/base.css">
         <link rel="shortcut icon"   href="favicon.ico">
     </head>
 
     <body>
         <div class="container-narrow">
-            <div class="navbar">
-                <div class="navbar-header">
-                    <h4>Brian McFee <small>brm2132@columbia.edu</small></h4> 
-                </div>
-                <ul class="nav nav-pills pull-right">
+            <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+                <div class="nav navbar-header">
+                    <h5 class="navbar-text">Brian McFee</h5>
+                    <h6 class="navbar-text">brm2132@columbia.edu</h6>
+                </div> 
+                <ul class="nav nav-pills navbar-right">
+                    <li class="active"><a href="#home">Home</a></li>
+                    <li class="divider"></li>
                     <li class="active"><a href="#teaching">Teaching</a></li>
+                    <li class="divider"></li>
                     <li class="active"><a href="#pubs">Publications</a></li>
+                    <li class="divider"></li>
                     <li class="active"><a href="#resources">Software / data</a></li>
+                    <li class="divider"></li>
                     <li class="active"><a href="#hacks">Hacks</a></li>
                 </ul>
-            </div>
+            </nav>
             <div class="main" id="home">
                 <img class="pull-right img-rounded" style="margin-left: 15px;" src="i/bmcfee12.jpg" alt="Luke / Gert / Brian">
                 <p>
@@ -98,7 +104,7 @@
                                 {% endif %}
                                 </div>
                                 {% if pub.notes %}
-                                    <div style="text-align: right">{{ pub.notes }}</div>
+                                    <span class="badge" style="text-align: right">{{ pub.notes }}</span>
                                 {% endif %}
                             </div>
                         </div>
