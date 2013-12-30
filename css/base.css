@@ -9,10 +9,6 @@ body {
     max-width: 800px;
 }
 
-.main {
-    margin: 25px 0;
-}
-
 .publications > div {
     font-size:  85%;
     line-height: 140%;
