@@ -1,0 +1,23 @@
+{   "data": [
+        {"name":    "MSD Challenge",
+         "url":     "http://www.kaggle.com/c/msdchallenge/data/",
+         "desc":    "Large-scale music recommendation on the <a href=\"http://labrosa.ee.columbia.edu/millionsong/\">Million Song Dataset</a>.  See also the <a href=\"http://labrosa.ee.columbia.edu/millionsong/challenge#data1\">year 1 test set</a>.  "},
+
+        {"name":    "AotM-2011",
+         "url":     "http://cosmal.ucsd.edu/cal/projects/aotm2011/",
+         "desc":    "Annotated playlists from <a href=\"http://www.artofthemix.org\">Art of the Mix</a>, indexed to the <a href=\"http://labrosa.ee.columbia.edu/millionsong/\">Million Song Dataset</a>.  2011 version."},
+
+        {"name":    "AotM-2003",
+         "url":     "data/playlists.html",
+         "desc":    "An <a href=\"http://labrosa.ee.columbia.edu/projects/musicsim/aotm.html\">earlier collection</a> of playlists from <a href=\"http://www.artofthemix.org\">Art of the Mix</a>, also indexed to the <a href=\"http://labrosa.ee.columbia.edu/millionsong/\">Million Song Dataset</a>. 2003 version."},
+
+        {"name":    "aset400 kernels",
+         "url":     "http://mkl.ucsd.edu/dataset/aset400-heterogeneous-embedding",
+         "desc":    "Kernel matrices for <a href=\"http://labrosa.ee.columbia.edu/projects/musicsim/musicseer.html\">aset400</a> artist similarity experiments"},
+
+        {"name":    "eHarmony",
+         "url":     "data/eharmony.html",
+         "desc":    "Matchings and anonymized features for several hundred thousand <a href=\"http://www.eharmony.com/\">eHarmony</a> users."}
+
+    ]
+}

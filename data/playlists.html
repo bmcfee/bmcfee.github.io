@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Brian McFee :: data :: the natural language of playlists</title>
+        <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <div class="container-narrow">
+            <div class="muted">
+                <h3><ul class="breadcrumb muted">
+                    <li><a href="../">Home</a> <span class="divider">/</span></li>
+                    <li>The natural language of playlists</li>
+                </ul>
+                </h3>
+            </div>
+            <div class="main">
+                <p>
+                    This page contains the data and examples described in the paper cited below.  The playlist bigram collection is derived from the <a href="http://www.artofthemix.org/">Art of the Mix</a> playlist database, available <a href="http://labrosa.ee.columbia.edu/projects/musicsim/aotm.html">here</a>.  The data provided here is the subset of the Art of the Mix collection which coincides with the <a href="http://labrosa.ee.columbia.edu/millionsong/">Million Song Dataset</a>.
+                </p>
+                <p>
+                    If you have any questions or comments, feel free to email the author at <a href="mailto:bmcfee@cs.ucsd.edu">bmcfee@cs.ucsd.edu</a>
+                </p>
+            </div>
+
+            <hr>
+
+            <div>
+                <h4>Bigram data</h4>
+                <ul>
+                    <li><a href="aotm-bigrams.csv.gz">aotm-bigrams.csv.gz</a>: 66250 song bigrams (869KB) [<a href="aotm-bigrams.csv.gz.md5">md5</a>]</li>
+                </ul>
+                <p>
+                    Each line in <tt>aotm-bigrams.csv</tt> consists of an ordered pair <em>current song,next song</em>, identified by Echo Nest <a href="http://developer.echonest.com/docs/v4/track.html">track ID</a>.  For example:
+                    <blockquote>
+                        TRFHYOH128F9358CEF,TRWXAOC128F42553AE
+                    </blockquote>
+                    These track identifiers can be resolved to song titles by the Echo Nest developer API, or using the meta-data information provided with the <a href="http://labrosa.ee.columbia.edu/millionsong/">Million Song Dataset</a>.
+                </p>
+            </div>
+    
+            <hr>
+
+            <div class="publications">
+                <h4>References</h4>
+                <p>
+                    If you use this data, please cite the following paper:
+                </p>
+                <div>
+                    <div class="pull-right">
+                        <div>2011</div>
+                        <div>
+                            <a href="../papers/ismir2011_nlp.bib"><i class="icon-retweet" alt="bib"></i></a>
+                            |<a href="../papers/ismir2011_nlp.pdf"><i class="icon-file" alt="pdf"></i></a>
+                        </div>
+                    </div>
+                    <div style="font-size: 120%">The natural language of playlists</div>
+                    <div class="muted"<a href="../">McFee, B.</a> and <a href="http://cosmal.ucsd.edu/~gert/">Lanckriet, G.R.G.</a></div>
+                    <div class="muted">12th International Society for Music Information Retrieval conference (ISMIR).</div>
+                </div>
+            </div>
+
+            <hr>
+
+            <div>
+                <h4>Playlist examples</h4>
+
+                <div>
+                    <iframe src="http://gadget.playlistify.org/index.html?p=6226&amp;w=294" style="width: 300px; height: 539px; background:transparent;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="300" height="539"></iframe>
+                    <iframe src="http://gadget.playlistify.org/index.html?p=6228&amp;w=294" style="width: 300px; height: 539px; background:transparent;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="300" height="539"></iframe>
+                    <iframe src="http://gadget.playlistify.org/index.html?p=6231&amp;w=294" style="width: 300px; height: 539px; background:transparent;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="300" height="539"></iframe>
+                    <iframe src="http://gadget.playlistify.org/index.html?p=6232&amp;w=294" style="width: 300px; height: 539px; background:transparent;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="300" height="539"></iframe>
+                    <iframe src="http://gadget.playlistify.org/index.html?p=6233&amp;w=294" style="width: 300px; height: 539px; background:transparent;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="300" height="539"></iframe>
+                    <iframe src="http://gadget.playlistify.org/index.html?p=6229&amp;w=294" style="width: 300px; height: 539px; background:transparent;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="300" height="539"></iframe>
+                    <iframe src="http://gadget.playlistify.org/index.html?p=6234&amp;w=294" style="width: 300px; height: 539px; background:transparent;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="300" height="539"></iframe>
+                    <iframe src="http://gadget.playlistify.org/index.html?p=6230&amp;w=294" style="width: 300px; height: 539px; background:transparent;" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" width="300" height="539"></iframe>
+                </div>
+            </div>
+        </div>
+    </body>
+</html>

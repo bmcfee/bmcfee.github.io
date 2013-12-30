@@ -1,0 +1,23 @@
+{   "hacks": [
+        {"name":    "Yankomatic",
+         "url":     "http://functiontelechy.tumblr.com/post/69408686429/yankomatic",
+         "desc":    "Automatically generate song title parodies using rhyming food words."},
+
+        {"name":    "Handmadedness",
+         "url":     "http://functiontelechy.tumblr.com/post/56784812331/handmadedness",
+         "desc":    "Calculate how <em>hand-made</em> a song sounds by measuring repetition patterns and tempo stability."},
+
+        {"name":    "Frankenmasher 2000",
+         "url":     "http://functiontelechy.tumblr.com/post/57976729805/mhd-toronto-and-frankenmasher-2000",
+         "desc":    "Isolate and recombine vocals and instruments from different songs to create mash-ups of hypothetical super-groups."},
+
+        {"name":    "Mend-a-break",
+         "url":     "http://functiontelechy.tumblr.com/post/50857471063/mend-a-break",
+         "desc":    "Resynthesize any audio clip using sparse convolutions of the <a href=\"http://www.youtube.com/watch?v=5SaFTm2bcac\">Amen&nbsp;Break</a>."
+         },
+
+        {"name":    "Auto-chip-tune",
+         "url":     "http://functiontelechy.tumblr.com/post/35568806362/autochiptune",
+         "desc":    "Generate Nintendo chip-tune programs from audio analysis."}
+    ]
+}

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Brian McFee :: data :: eHarmony matchings</title>
+        <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <div class="container-narrow">
+            <div class="muted">
+                <h3><ul class="breadcrumb muted">
+                    <li><a href="../">Home</a> <span class="divider">/</span></li>
+                    <li>eHarmony matchings</li>
+                </ul>
+                </h3>
+            </div>
+            
+            <div class="main">
+                <p>
+                    This data set was provided by <a href="http://www.eharmony.com/">eHarmony, Inc.</a>  The data consists of pairs of individuals, which either matched (positive example) or did not (negative example).  The data is partitioned into two subsets corresponding to two equal-length segments of time.
+                    The data is stored in CSV files, organized as follows.
+                </p>
+                <ul>
+                    <li><strong>EH-*-data.csv.gz</strong>: each row describes an individual.  The first column is an identification number for that individual, and all subsequent columns contain the (numeric) feature values.</li>
+                    <li><strong>EH-*-labels.csv.gz</strong>: each row describes a pairwise interaction.  The first column indicates whether the interaction is positive (1) or negative (0).  The second and third columns contain identification numbers for the corresponding individuals.
+                </ul>
+
+                Please refer to the paper below for more details about this data set.
+            </div>
+
+            <hr>
+
+            <div>
+                <h4>Download</h4>
+                <ul>
+                    <li>Slice 1: <a href="EH-slice1-data.csv.gz">data</a> (9.7MB, <a href="EH-slice1-data.csv.gz.md5">md5</a>), <a href="EH-slice1-labels.csv.gz">labels</a> (2.2MB, <a href="EH-slice1-labels.csv.gz.md5">md5</a>)</li>
+                    <li>Slice 2: <a href="EH-slice2-data.csv.gz">data</a> (7.4MB, <a href="EH-slice2-data.csv.gz.md5">md5</a>), <a href="EH-slice2-labels.csv.gz">labels</a> (1.8MB, <a href="EH-slice2-labels.csv.gz.md5">md5</a>)</li>
+                </ul>
+            </div>
+
+            <hr>
+
+            <div class="publications">
+                <h4>References</h4>
+                <p>
+                    If you use either this data, please cite the following paper:
+                </p>
+
+                <div>
+                    <div class="pull-right">
+                        <div>2010</div>
+                        <div>
+                            <a href="../papers/mlr.bib"><i class="icon-retweet" alt="bib"></i></a>
+                            |<a href="../papers/mlr.pdf"><i class="icon-file" alt="pdf"></i></a>
+                        </div>
+                    </div>
+                    <div style="font-size: 120%">Metric learning to rank</div>
+                    <div class="muted"<a href="../">McFee, B.</a> and <a href="http://cosmal.ucsd.edu/~gert/">Lanckriet, G.R.G.</a></div>
+                    <div class="muted">Twenty-seventh International Conference on Machine Learning (ICML).</div>
+                </div>
+            </div>
+
+            <hr>
+
+            <div>
+                <h4>Source code</h4>
+                The source code for MLR is now hosted on <a href="http://github.com/bmcfee/mlr">GitHub</a>.
+            </div>
+        </div>
+    </body>
+</html>

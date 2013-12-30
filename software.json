@@ -1,0 +1,18 @@
+{   "software": [
+        {"name":    "LibROSA",
+         "url":     "http://github.com/bmcfee/librosa/",
+         "desc":    "A python package for music and audio signal analysis."},
+
+        {"name":    "MLR",
+         "url":     "http://github.com/bmcfee/mlr/",
+         "desc":    "MATLAB implementation of metric learning to rank."},
+
+        {"name":    "Hypergraph playlists",
+         "url":     "http://github.com/bmcfee/hypergraph_playlist/",
+         "desc":    "Python implementation of the model from <a href=\"papers/ismir2012_dialect.pdf\">this paper</a>."},
+
+        {"name":    "Spatial trees",
+         "url":     "http://github.com/bmcfee/spatialtree",
+         "desc":    "Python implementation of spatial trees for approximate nearest neighbor search, as used in  <a href=\"papers/ismir2011_sptree.pdf\">this paper</a>."}
+    ]
+}

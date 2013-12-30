@@ -1,0 +1,27 @@
+{   "authors": {
+        "brm":  {"name": "McFee, B."},
+
+        "cg":   {"name": "Galleguillos, C.",    "url": "http://vision.ucsd.edu/~carolina/"},
+
+        "gl":   {"name": "Lanckriet, G.R.G.",   "url": "http://cosmal.ucsd.edu/~gert/"},
+
+        "dkl":  {"name": "Lim, D.K.H.",         "url": "http://acsweb.ucsd.edu/~dklim/"},
+
+        "ju":   {"name": "Urbano, J.",          "url": "http://julian-urbano.info/"},
+
+        "jsd":  {"name": "Downie, J.S.",        "url": "http://www.lis.illinois.edu/people/faculty/jdownie"},
+
+        "ms":   {"name": "Schedl, M.",          "url": "http://www.cp.jku.at/people/schedl/"},
+        
+        "tbm":  {"name": "Bertin-Mahieux. T.",  "url": "http://www.columbia.edu/~tb2332/"},
+
+        "dpwe": {"name": "Ellis, D.P.W.",       "url": "http://www.ee.columbia.edu/~dpwe/"},
+
+        "sjb":  {"name": "Belongie, S.",        "url": "http://vision.ucsd.edu/~sjb/"},
+
+        "nk":   {"name": "Koenigstein, N.",     "url": "http://www.eng.tau.ac.il/~noamk/"},
+
+        "ys":   {"name": "Shavitt, Y.",         "url": "http://www.eng.tau.ac.il/~shavitt/"},
+        "lb":   {"name": "Barrington, L.",      "url": "http://van.ucsd.edu/"}
+}
+}
