@@ -4,9 +4,12 @@ body {
     text-align:     justify;
 }
     
-.container-narrow {
-    margin: 0 auto;
-    max-width: 800px;
+#navigator {
+    position: fixed;
+}
+
+.active {
+    font-weight: bold;
 }
 
 .publications > div {

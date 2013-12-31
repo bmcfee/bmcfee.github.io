@@ -9,8 +9,8 @@
         <link rel="shortcut icon"   href="favicon.ico">
     </head>
 
-    <body>
-        <div class="container col-md-2 well well-sm">
+    <body data-spy="scroll" data-target="#navigator">
+        <div class="container col-sm-2 well well-sm" id="navigator">
             <nav role="navigation">
                 <ul class="nav nav-stacked">
                     <li class="active"><a href="#home">Home</a></li>
@@ -25,7 +25,7 @@
                 </ul>
             </nav>
         </div>
-        <div class="container col-md-8">
+        <div class="container col-sm-8 col-sm-offset-2">
             <div class="panel panel-default main" id="home">
                 <div class="panel-heading"><h4>Brian McFee <small>brm2132@columbia.edu</small></h4></div>
                 <div class="panel-body">
@@ -176,5 +176,7 @@
 
         </div>
     </body>
+    <script type="text/javascript" src="bootstrap/js/jquery.js"></script>
+    <script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
 
 </html>
