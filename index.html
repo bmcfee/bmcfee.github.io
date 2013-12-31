@@ -15,13 +15,13 @@
                 <ul class="nav nav-stacked">
                     <li class="active"><a href="#home">Home</a></li>
                     <li class="divider"></li>
-                    <li class="active"><a href="#teaching">Teaching</a></li>
+                    <li><a href="#teaching">Teaching</a></li>
                     <li class="divider"></li>
-                    <li class="active"><a href="#pubs">Publications</a></li>
+                    <li><a href="#pubs">Publications</a></li>
                     <li class="divider"></li>
-                    <li class="active"><a href="#resources">Software / data</a></li>
+                    <li><a href="#resources">Software / data</a></li>
                     <li class="divider"></li>
-                    <li class="active"><a href="#hacks">Hacks</a></li>
+                    <li><a href="#hacks">Hacks</a></li>
                 </ul>
             </nav>
         </div>
