@@ -52,8 +52,8 @@
                     <p>
                         In May, 2012, I defended my dissertation, titled 
                             <em>More like this: machine learning approaches to music similarity</em> [<small><a
-                            href="papers/bmcfee_dissertation.bib"><span class="glyphicon glyphicon-retweet" alt="bib" title="bib"></span><span class="sr-only">bib</span></a>|<a
-                            href="papers/bmcfee_dissertation.pdf"><span class="glyphicon glyphicon-file" alt="pdf" title="pdf"></span><span class="sr-only">pdf</span></a></small>].
+                            href="papers/bmcfee_dissertation.bib"><span class="glyphicon glyphicon-retweet" title="bib"></span><span class="sr-only">bib</span></a>|<a
+                            href="papers/bmcfee_dissertation.pdf"><span class="glyphicon glyphicon-file" title="pdf"></span><span class="sr-only">pdf</span></a></small>].
                     </p>
 
                     <p>
