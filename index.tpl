@@ -104,7 +104,7 @@
                                 {% endif %}
                                 </div>
                                 {% if pub.notes %}
-                                    <span class="badge" style="text-align: right">{{ pub.notes }}</span>
+                                    <span class="label label-info" style="text-align: right">{{ pub.notes }}</span>
                                 {% endif %}
                             </div>
                         </div>
