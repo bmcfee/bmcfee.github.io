@@ -80,7 +80,7 @@
                 <div class="panel-body publications">
                 {% for pub in pubs %}
                     <div>
-                        <div style="float: right; text-align: right;">
+                        <div style="float: right; text-align: right; margin-left: 6px">
                             <div> 
                                 {{ pub.date }} 
                                 <div>
