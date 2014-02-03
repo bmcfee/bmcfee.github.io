@@ -1,4 +1,14 @@
 {   "pubs": [
+    {   "title"     : "Learning to segment songs with ordinal linear discriminant analysis",
+        "authors"   : [   "brm", "dpwe" ],
+        "venue"     : "International conference on acoustics, speech and signal processing (ICASSP)",
+        "date"      : "2014"
+    },
+    {   "title"     : "Better beat tracking through robust onset aggregation",
+        "authors"   : [   "brm", "dpwe" ],
+        "venue"     : "International conference on acoustics, speech and signal processing (ICASSP)",
+        "date"      : "2014"
+    },
     {   "title"     : "Iterative category discovery via multiple kernel metric learning",
         "authors"   : [   "cg", "brm", "gl" ],
         "venue"     : "International Journal of Computer Vision",
