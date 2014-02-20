@@ -3,6 +3,7 @@
         "authors"   : [   "brm", "dpwe" ],
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP)",
         "date"      : "2014",
+        "code"      : "http://github.com/bmcfee/olda",
         "bib"       : "papers/icassp2014_segments.bib",
         "pdf"       : "papers/icassp2014_segments.pdf"
     },
@@ -10,6 +11,7 @@
         "authors"   : [   "brm", "dpwe" ],
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP)",
         "date"      : "2014",
+        "code"      : "http://github.com/bmcfee/beat_onset",
         "bib"       : "papers/icassp2014_beats.bib",
         "pdf"       : "papers/icassp2014_beats.pdf"
     },
