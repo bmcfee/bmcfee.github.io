@@ -4,6 +4,7 @@
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP)",
         "date"      : "2014",
         "code"      : "http://github.com/bmcfee/olda",
+        "slides"    : "http://www.slideshare.net/BrianMcFee/learning-to-segment-songs-with-ordinal-linear-discriminant-analysis", 
         "bib"       : "papers/icassp2014_segments.bib",
         "pdf"       : "papers/icassp2014_segments.pdf"
     },
