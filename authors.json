@@ -1,6 +1,8 @@
 {   "authors": {
         "brm":  {"name": "McFee, B."},
 
+        "zc":   {"name": "Chen, Z.",            "url": "http://www.ee.columbia.edu/~zhuo/"},
+
         "cg":   {"name": "Galleguillos, C.",    "url": "http://vision.ucsd.edu/~carolina/"},
 
         "gl":   {"name": "Lanckriet, G.R.G.",   "url": "http://cosmal.ucsd.edu/~gert/"},

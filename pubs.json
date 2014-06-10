@@ -1,4 +1,10 @@
 {   "pubs": [
+    {   "title"     : "Speech enhancement by low-rank and convolutive dictionary spectrogram decomposition",
+        "authors"   : [   "zc", "brm", "dpwe" ],
+        "venue"     : "Interspeech (to appear)",
+        "date"      : "2014",
+    },
+
     {   "title"     : "Learning to segment songs with ordinal linear discriminant analysis",
         "authors"   : [   "brm", "dpwe" ],
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP)",
