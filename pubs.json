@@ -1,4 +1,23 @@
 {   "pubs": [
+    {   "title"     : "Analyzing song structure with spectral clustering",
+        "authors"   : [   "brm", "dpwe" ],
+        "venue"     : "15th International Society for Music Information Retrieval (ISMIR) conference (to appear)",
+        "date"      : "2014",
+    },
+
+    {   "title"     : "mir_eval",
+        "authors"   : [   "cr", "brm", "js", "ejh", "on", "dl", "dpwe" ],
+        "venue"     : "15th International Society for Music Information Retrieval (ISMIR) conference (to appear)",
+        "code"      : "http://github.com/craffel/mir_eval",
+        "date"      : "2014",
+    },
+    
+    {   "title"     : "Codebook-based audio feature representation for music information retrieval",
+        "authors"   : [   "yv", "brm", "gl" ],
+        "venue"     : "IEEE Transactions on Audio, Speech and Language Processing (to appear)",
+        "date"      : "2014",
+    },
+
     {   "title"     : "Speech enhancement by low-rank and convolutive dictionary spectrogram decomposition",
         "authors"   : [   "zc", "brm", "dpwe" ],
         "venue"     : "Interspeech (to appear)",

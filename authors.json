@@ -24,6 +24,19 @@
         "nk":   {"name": "Koenigstein, N.",     "url": "http://www.eng.tau.ac.il/~noamk/"},
 
         "ys":   {"name": "Shavitt, Y.",         "url": "http://www.eng.tau.ac.il/~shavitt/"},
-        "lb":   {"name": "Barrington, L.",      "url": "http://van.ucsd.edu/"}
+
+        "lb":   {"name": "Barrington, L.",      "url": "http://van.ucsd.edu/"},
+
+        "yv":   {"name": "Vaizman, Y.",         "url": "http://acsweb.ucsd.edu/~yvaizman/"},
+
+        "cr":   {"name": "Raffel, C.",          "url": "http://colinraffel.com/"}, 
+
+        "js":   {"name": "Salamon, J.",         "url": "http://www.justinsalamon.com/"},
+
+        "ejh":  {"name": "Humphrey, E.",        "url": "http://ejhumphrey.com/"},
+
+        "on":   {"name": "Nieto, O.",           "url": "https://files.nyu.edu/onc202/public/"},
+
+        "dl":   {"name": "Liang, D.",           "url": "http://www.ee.columbia.edu/~dliang/"},
 }
 }
