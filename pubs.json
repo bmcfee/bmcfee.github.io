@@ -12,6 +12,7 @@
         "venue"     : "15th International Society for Music Information Retrieval (ISMIR) conference (to appear)",
         "code"      : "http://github.com/craffel/mir_eval",
         "date"      : "2014",
+        "pdf"       : "papers/ismir2014_mireval.pdf",
         "bib"       : "papers/ismir2014_mireval.bib",
     },
     
