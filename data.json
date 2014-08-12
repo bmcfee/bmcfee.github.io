@@ -4,7 +4,7 @@
          "desc":    "Large-scale music recommendation on the <a href=\"http://labrosa.ee.columbia.edu/millionsong/\">Million Song Dataset</a>.  See also the <a href=\"http://labrosa.ee.columbia.edu/millionsong/challenge#data1\">year 1 test set</a>.  "},
 
         {"name":    "AotM-2011",
-         "url":     "http://cosmal.ucsd.edu/cal/projects/aotm2011/",
+         "url":     "data/aotm2011.html/",
          "desc":    "Annotated playlists from <a href=\"http://www.artofthemix.org\">Art of the Mix</a>, indexed to the <a href=\"http://labrosa.ee.columbia.edu/millionsong/\">Million Song Dataset</a>."},
 
         {"name":    "AotM-2003",
