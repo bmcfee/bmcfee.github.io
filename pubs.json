@@ -71,7 +71,7 @@
         "pdf"       : "papers/ismir2012_dialect.pdf",
         "bib"       : "papers/ismir2012_dialect.bib",
         "code"      : "https://github.com/bmcfee/hypergraph_playlist",
-        "data"      : "http://cosmal.ucsd.edu/cal/projects/aotm2011/",
+        "data"      : "data/aotm2011.html",
         "slides"    : "http://www.slideshare.net/BrianMcFee/hypergraph-models-of-playlist-dialects",
         "tags"      : ["music", "playlist generation"]
     },
