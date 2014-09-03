@@ -37,13 +37,17 @@
                     </p>
 
                     <p>
-                        As of Fall of 2012, I am a postdoctoral research scholar in the <a
+                        As of Fall, 2014, I am a data science fellow at the <a href="http://cds.nyu.edu">Center
+                        for Data Science</a> at <a href="http://www.nyu.edu/">New York University</a>.
+                    </p>
+                    <p>
+                        Previously, I was a postdoctoral research scholar in the <a
                         href="http://jazz.columbia.edu/">Center for Jazz Studies</a> and <a
                         href="http://labrosa.ee.columbia.edu/">LabROSA</a> at <a
                         href="http://www.columbia.edu/">Columbia University</a>.  
                     </p>
                     <p>
-                        Previously, I was advised by <a
+                        Before that, I was advised by <a
                         href="http://cosmal.ucsd.edu/~gert/">Prof. Gert Lanckriet</a> in the <a
                         href="http://cosmal.ucsd.edu/cal">Computer Audition Lab</a> and <a
                         href="http://ai.ucsd.edu">Artificial Intelligence Group</a> at the <a
