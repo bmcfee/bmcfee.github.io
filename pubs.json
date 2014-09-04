@@ -18,7 +18,7 @@
     
     {   "title"     : "Codebook-based audio feature representation for music information retrieval",
         "authors"   : [   "yv", "brm", "gl" ],
-        "venue"     : "IEEE Transactions on Audio, Speech and Language Processing (to appear)",
+        "venue"     : "IEEE Transactions on Audio, Speech and Language Processing",
         "date"      : "2014",
         "pdf"       : "papers/taslp2014_codebook.pdf",
         "bib"       : "papers/taslp2014_codebook.bib",
