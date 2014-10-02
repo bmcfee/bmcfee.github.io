@@ -29,7 +29,7 @@
             <div class="panel panel-default main" id="home">
                 <div class="panel-heading"><h4>Brian McFee <small>brian.mcfee@nyu.edu</small></h4></div>
                 <div class="panel-body">
-                    <img class="pull-right img-thumbnail" style="margin-left: 15px;" src="i/bmcfee12.jpg" alt="Luke / Gert / Brian">
+                    <img class="pull-right img-thumbnail" style="margin-left: 15px;" src="i/bmcfee13.png" alt="[me]">
                     <p>
                         I develop machine learning tools to analyze multimedia data.
                         This includes recommender systems, image and audio analysis, similarity learning, 
