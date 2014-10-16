@@ -5,6 +5,7 @@
         "date"      : "2014",
         "bib"       : "papers/ismir2014_spectral.bib",
         "pdf"       : "papers/ismir2014_spectral.pdf",
+        "code"      : "https://github.com/bmcfee/laplacian_segmentation",
     },
 
     {   "title"     : "mir_eval: a transparent implementation of common MIR metrics",
