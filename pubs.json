@@ -7,6 +7,7 @@
         "pdf"       : "papers/ismir2014_spectral.pdf",
         "code"      : "https://github.com/bmcfee/laplacian_segmentation",
         "slides"    : "https://speakerdeck.com/bmcfee/analyzing-song-structure-with-spectral-clustering",
+        "notes"     : "Best oral presentation award",
     },
 
     {   "title"     : "mir_eval: a transparent implementation of common MIR metrics",
@@ -16,6 +17,7 @@
         "date"      : "2014",
         "pdf"       : "papers/ismir2014_mireval.pdf",
         "bib"       : "papers/ismir2014_mireval.bib",
+        "notes"     : "Best poster presentation award",
     },
     
     {   "title"     : "Codebook-based audio feature representation for music information retrieval",
