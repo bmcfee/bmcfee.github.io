@@ -8,6 +8,7 @@
         "code"      : "https://github.com/bmcfee/laplacian_segmentation",
         "slides"    : "https://speakerdeck.com/bmcfee/analyzing-song-structure-with-spectral-clustering",
         "notes"     : "Best oral presentation award",
+        "video"     : "http://www.camdemy.com/media/16447"
     },
 
     {   "title"     : "mir_eval: a transparent implementation of common MIR metrics",

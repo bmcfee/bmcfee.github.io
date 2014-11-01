@@ -88,8 +88,11 @@
                             <div> 
                                 {{ pub.date }} 
                                 <div>
+                                {% if pub.video %}
+                                    <a href="{{ pub.video }}"><span class="glyphicon glyphicon-film" title="video"></span><span class="sr-only">video</span></a> |
+                                {% endif %}
                                 {% if pub.slides %}
-                                    <a href="{{ pub.slides }}"><span class="glyphicon glyphicon-film" title="slides"></span><span class="sr-only">slides</span></a> |
+                                    <a href="{{ pub.slides }}"><span class="glyphicon glyphicon-list" title="slides"></span><span class="sr-only">slides</span></a> |
                                 {% endif %}
                                 {% if pub.poster %}
                                     <a href="{{ pub.poster }}"><span class="glyphicon glyphicon-picture" title="poster"></span><span class="sr-only">poster</span></a> |
