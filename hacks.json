@@ -1,4 +1,8 @@
 {   "hacks": [
+        {"name":    "The Keplerphone",
+         "url":     "http://functiontelechy.tumblr.com/post/102308162994/the-keplerphone",
+         "desc":    "Music synthsize from the Kepler satellite. Shredding exoplanet rock."},
+
         {"name":    "Yankomatic",
          "url":     "http://functiontelechy.tumblr.com/post/69408686429/yankomatic",
          "desc":    "Automatically generate song title parodies using rhyming food words."},
