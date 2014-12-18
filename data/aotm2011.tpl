@@ -35,7 +35,7 @@
                     <p>
                         If you have any questions or comments, feel free to email the
                         author at <a
-                        href="mailto:bmcfee@cs.ucsd.edu">brm2132@columbia.edu</a>
+                        href="mailto:{{ email }}">{{ email }}</a>
                     </p>
                 </div>
             </div>

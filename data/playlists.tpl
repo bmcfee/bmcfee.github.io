@@ -25,7 +25,8 @@
                         This page contains the data and examples described in the paper cited below.  The playlist bigram collection is derived from the <a href="http://www.artofthemix.org/">Art of the Mix</a> playlist database, available <a href="http://labrosa.ee.columbia.edu/projects/musicsim/aotm.html">here</a>.  The data provided here is the subset of the Art of the Mix collection which coincides with the <a href="http://labrosa.ee.columbia.edu/millionsong/">Million Song Dataset</a>.
                     </p>
                     <p>
-                        If you have any questions or comments, feel free to email the author at <a href="mailto:bmcfee@cs.ucsd.edu">bmcfee@cs.ucsd.edu</a>
+                        If you have any questions or comments, feel free to email the author at <a
+                        href="mailto:{{ email }}">{{ email }}</a>
                     </p>
                 </div>
             </div>

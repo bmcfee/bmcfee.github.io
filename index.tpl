@@ -27,7 +27,7 @@
         </div>
         <div class="container col-sm-8 col-sm-offset-2">
             <div class="panel panel-default main" id="home">
-                <div class="panel-heading"><h4>Brian McFee <small>brian.mcfee@nyu.edu</small></h4></div>
+                <div class="panel-heading"><h4>Brian McFee <small>{{ email }}</small></h4></div>
                 <div class="panel-body">
                     <img class="pull-right img-thumbnail" style="margin-left: 15px;" src="i/bmcfee13.png" alt="[me]">
                     <p>
