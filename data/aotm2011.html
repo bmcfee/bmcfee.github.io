@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Brian McFee :: Art of the Mix 2011</title>
+        <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        <link rel="shortcut icon"   href="../favicon.ico">
+    </head>
+
+    <body>
+        <div class="container col-sm-2 well well-sm">
+            <nav role="navigation">
+                <ul class="nav nav-staked">
+                    <li><a href="../index.html">Home</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="container col-sm-8">
+            <div class="panel panel-default">
+                <div class="panel-heading"><h4>AOTM-2011</h4></div>
+            
+                <div class="panel-body">
+                    <p>
+                        This page contains the data and examples described in the paper cited below.  The playlist collection is derived from <a href="http://www.artofthemix.org/">Art of the Mix</a> playlist database.  
+                    </p>
+                    <p>
+                    AOTM-2011 spans the period from 1998-01-22 to 2011-06-17. In all,
+                    it contains 101,343 unique playlists, each of which has had its
+                    songs matched to the <a
+                    href="http://labrosa.ee.columbia.edu/millionsong/">Million Song
+                    Dataset</a> (MSD).  Approximately 98,000 songs were matched into
+                    MSD; please see the publication below for details.
+                    </p>
+                    <p>
+                        If you have any questions or comments, feel free to email the
+                        author at <a
+                        href="mailto:brian.mcfee@nyu.edu">brian.mcfee@nyu.edu</a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-heading"><h4>Playlist data</h4></div>
+                <div class="panel-body">
+                    <dl class="dl-horizontal">
+                        <dt><a
+                        href="aotm2011_playlists.json.gz">aotm2011_playlists.json.gz</a></dt>
+                        <dd>101,343 playlists (50M) [<a
+                        href="aotm2011_playlists.json.gz.md5">md5</a>]</dd>
+                    </dl>
+                    <p>
+                        We provide the data in JSON format.  The following python code
+                        can be used to import the data.
+                    </p>
+                    <pre>
+import cjson
+import gzip
+
+with gzip.open('aotm2011_playlists.json.gz', 'r') as file_desc:
+    playlists = cjson.decode(file_desc.read())
+                    </pre>
+                    <p>
+                        The variable <code>playlists</code> will then contain a list
+                        of playlists, complete with song identifiers, categorical
+                        annotation, and various other metadata.  For example:
+                    </p>
+                    <pre>
+P[0] = {'category': 'Mixed Genre',
+        'filtered_lists': [['SOFDPDC12A58A7D198'],
+                           ['SOPIEQP12A8C13F268', 'SOKMCJK12A6D4F6105'],
+                           ['SOGTGJR12A6310E08D',
+                            'SOLTBYJ12A6310F2BB',
+                            'SOBOXXN12A6D4FA1A2',
+                            'SOUQUFO12B0B80778E']],
+        'mix_id': 89567,
+        'playlist': [[['peter murphy', "marlene dietrich's favourite poem"], None],
+                     [['the walker brothers', "the sun ain't gonna shine anymore"],
+                      'SOFDPDC12A58A7D198'],
+                     [['marc almond', 'jacky'], None],
+                     [['tindersticks', 'dying slowly'], None],
+                     [['tori amos', 'me and a gun'], 'SOPIEQP12A8C13F268'],
+                     [['suzanne vega', 'luka'], 'SOKMCJK12A6D4F6105'],
+                     [['madonna', 'spanish eyes'], None],
+                     [['the angels of light', 'praise your name'], None],
+                     [['eurythmics', 'sex crime'], None],
+                     [['tom waits', 'drunk on the moon'], None],
+                     [['kate bush', 'wuthering heights'], 'SOGTGJR12A6310E08D'],
+                     [['david bowie', "new york's in love"], 'SOLTBYJ12A6310F2BB'],
+                     [['echo & the bunnymen', 'crocodiles'], 'SOBOXXN12A6D4FA1A2'],
+                     [['peter murphy', "i'll fall with your knife"], 'SOUQUFO12B0B80778E']],
+        'timestamp': '2005-03-27T10:53:00',
+        'user': {'member_since': '2004-03-21T00:00:00',
+                 'mixes_posted': '23',
+                 'name': 'pulmotor'}}
+                    </pre>
+                    <p>
+                    Going through the fields of <code>P[0]</code>, we have the
+                    following fields.
+                    </p>
+                    <dl class="dl-horizontal">
+                        <dt>category</dt>
+                        <dd>A string describing the category of the playlist.  There are
+                    about 40 unique categories.</dd>
+                        
+                        <dt>filtered_lists</dt>
+                        <dd>An array of contiguous segments of the playlists, where
+                        each song in the segment could be matched to MSD.  This field
+                        is provided for convenience, and could be reconstructed from
+                        the <code>playlist</code> field described below.</dd>
+
+                        <dt>mix_id</dt>
+                        <dd>A unique numeric identifier for the playlist.</dd>
+                        
+                        <dt>playlist</dt>
+                        <dd>An array containing the original playlist data.  Eahc
+                        element of this array is an array of length 2.  The first
+                        element contains the artist name and song title, and the
+                        second contains the MSD song identifier, or <code>None</code>
+                        if the song could not be matched to MSD.</dd>
+                        
+                        <dt>timestamp</dt>
+                        <dd>The time and date when the user uploaded the playlist.</dd>
+                        
+                        <dt>user</dt>
+                        <dd>A dictionary containing information about the playlist's
+                        author, such as the user name, the date of joining the site, 
+                        and number of playlists posted by that user (at time of upload).
+                        </dd>
+
+                    </dl>
+                </div>
+            </div>
+    
+            <div class="panel panel-default">
+                <div class="panel-heading"><h4>References</h4></div>
+                <div class="panel-body publications">
+                    If you use this data, please cite the following paper:
+                    <div style="margin-top: 10px">
+                        <div class="pull-right">
+                            <div>2011</div>
+                            <div>
+                                <a href="../papers/ismir2012_dialect.bib"><span class="glyphicon glyphicon-retweet" title="bib"></span><span class="sr-only">bib</span></a>
+                                |<a href="../papers/ismir2012_dialect.pdf"><span class="glyphicon glyphicon-file" title="pdf"></span><span class="sr-only">pdf</span></a>
+                            </div>
+                        </div>
+                        <div style="font-size: 120%">Hypergraph models of playlist
+                        dialects</div>
+                        <div class="text-muted"><a href="../">McFee, B.</a> and <a href="http://cosmal.ucsd.edu/~gert/">Lanckriet, G.R.G.</a></div>
+                        <div class="text-muted">13th International Society for Music Information Retrieval conference (ISMIR).</div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </body>
+</html>

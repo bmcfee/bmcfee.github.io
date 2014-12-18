@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Brian McFee :: eHarmony matchings</title>
+        <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        <link rel="shortcut icon"   href="../favicon.ico">
+    </head>
+
+    <body>
+        <div class="container col-sm-2 well well-sm">
+            <nav role="navigation">
+                <ul class="nav nav-staked">
+                    <li><a href="../index.html">Home</a></li>
+                </ul>
+            </nav>
+        </div>
+        <div class="container col-sm-8">
+            <div class="panel panel-default">
+                <div class="panel-heading"><h4>eHarmony matchings</h4></div>
+                <div class="panel-body">
+                    <p>
+                    This data set was provided by <a href="http://www.eharmony.com/">eHarmony, Inc.</a>  The data consists of pairs of individuals, which either matched (positive example) or did not (negative example).  The data is partitioned into two subsets corresponding to two equal-length segments of time.
+                    The data is stored in CSV files, organized as follows.
+                    </p>
+
+                    <dl class="dl-horizontal">
+                        <dt><strong>EH-*-data.csv.gz</strong></dt>
+                        <dd>Each row describes an individual.  The first column is an
+                        identification number for that individual, and all subsequent
+                        columns contain the (numeric) feature values.</dd>
+                        <dt><strong>EH-*-labels.csv.gz</strong></dt>
+                        <dd>Each row describes a pairwise interaction.  The first column
+                        indicates whether the interaction is positive (1) or negative (0).
+                        The second and third columns contain identification numbers for
+                        the corresponding individuals.</dd>
+                    </dl>
+
+                    <p>
+                    Please refer to the paper below for more details about this data set.
+                    </p>
+                </div>
+            </div>
+
+            <div class="panel panel-danger">
+                <div class="panel-heading"><h4>Note</h4></div>
+                <div class="panel-body">
+                To protect the privacy of users, all features have been
+                obfuscated and normalized.  I cannot provide names for the
+                features.
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-heading"><h4>Download</h4></div>
+                <div class="panel-body">
+                <ul>
+                    <li>Slice 1: <a href="EH-slice1-data.csv.gz">data</a> (9.7MB, <a href="EH-slice1-data.csv.gz.md5">md5</a>), <a href="EH-slice1-labels.csv.gz">labels</a> (2.2MB, <a href="EH-slice1-labels.csv.gz.md5">md5</a>)</li>
+                    <li>Slice 2: <a href="EH-slice2-data.csv.gz">data</a> (7.4MB, <a href="EH-slice2-data.csv.gz.md5">md5</a>), <a href="EH-slice2-labels.csv.gz">labels</a> (1.8MB, <a href="EH-slice2-labels.csv.gz.md5">md5</a>)</li>
+                </ul>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-heading"><h4>References</h4></div>
+                
+                <div class="panel-body publications">
+
+                If you use this data, please cite the following paper:
+                    <div style="margin-top: 10px">
+                        <div class="pull-right">
+                            <div>2010</div>
+                            <div>
+                                <a href="../papers/mlr.bib"><span class="glyphicon glyphicon-retweet" title="bib"></span><span class="sr-only">bib</span></a>
+                                | <a href="../papers/mlr.pdf"><span class="glyphicon glyphicon-file" title="pdf"></span><span class="sr-only">pdf</span></a>
+                            </div>
+                        </div>
+
+                        <div style="font-size: 120%">Metric learning to rank</div>
+                        
+                        <div class="text-muted"><a href="../">McFee, B.</a> and <a href="http://cosmal.ucsd.edu/~gert/">Lanckriet, G.R.G.</a></div>
+                        <div class="text-muted">Twenty-seventh International Conference on Machine Learning (ICML).</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="panel panel-default">
+                <div class="panel-heading"><h4>Source code</h4></div>
+                <div class="panel-body">
+                The source code for MLR is now hosted on <a
+                href="http://github.com/bmcfee/mlr">GitHub</a>.</div>
+            </div>
+        </div>
+    </body>
+</html>
