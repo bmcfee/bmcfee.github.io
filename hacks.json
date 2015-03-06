@@ -22,6 +22,6 @@
 
         {"name":    "Auto-chip-tune",
          "url":     "http://functiontelechy.tumblr.com/post/35568806362/autochiptune",
-         "desc":    "Generate Nintendo chip-tune programs from audio analysis."}
+         "desc":    "Generate Nintendo chip-tune programs from audio analysis.  <p><a href=\"https://github.com/bmcfee/autochiptune\">Version 2</a></p>"}
     ]
 }
