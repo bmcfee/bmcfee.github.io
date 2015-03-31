@@ -38,7 +38,8 @@
 
                     <p>
                         As of Fall, 2014, I am a data science fellow at the <a href="http://cds.nyu.edu">Center
-                        for Data Science</a> at <a href="http://www.nyu.edu/">New York University</a>.
+                        for Data Science</a> and <a href="http://steinhardt.nyu.edu/marl/">Music and Audio Research Lab</a> 
+                            at <a href="http://www.nyu.edu/">New York University</a>.
                     </p>
                     <p>
                         Previously, I was a postdoctoral research scholar in the <a
