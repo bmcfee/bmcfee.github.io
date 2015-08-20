@@ -1,4 +1,14 @@
 {   "pubs": [
+    {   "title"     : "librosa: Audio and Music Signal Analysis in Python",
+        "authors"   : [   "brm", "cr", "dl", "dpwe", "mm", "eb", "on" ],
+        "venue"     : "14th annual Scientific Computing with Python conference (SciPy)",
+        "date"      : "2015",
+        "bib"       : "papers/scipy2015_librosa.bib",
+        "pdf"       : "papers/scipy2015_librosa.pdf",
+        "code"      : "https://github.com/bmcfee/librosa",
+        "slides"    : "https://github.com/bmcfee/scipy2015_librosa_talk"
+    },
+
     {   "title"     : "Analyzing song structure with spectral clustering",
         "authors"   : [   "brm", "dpwe" ],
         "venue"     : "15th International Society for Music Information Retrieval (ISMIR) conference",

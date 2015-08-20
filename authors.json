@@ -38,5 +38,9 @@
         "on":   {"name": "Nieto, O.",           "url": "https://files.nyu.edu/onc202/public/"},
 
         "dl":   {"name": "Liang, D.",           "url": "http://www.ee.columbia.edu/~dliang/"},
-}
+
+        "mm":   {"name": "McVicar, M.",         "url": "http://www.mattmcvicar.com"},
+
+        "eb":   {"name": "Battenberg, E.",      "url": "http://www.ericbattenberg.com"},
+    }
 }
