@@ -1,4 +1,19 @@
 {   "pubs": [
+    {   "title"     : "A software framework for musical data augmentation",
+        "authors"   : [   "brm", "ejh", "jpb"],
+        "venue"     : "15th International Society for Music Information Retrieval (ISMIR) conference",
+        "date"      : "2015",
+        "bib"       : "papers/ismir2015_augmentation.bib",
+        "pdf"       : "papers/ismir2015_augmentation.pdf",
+        "code"      : "https://github.com/bmcfee/muda"
+    },
+    {   "title"     : "Hierarchical evaluation of segment boundary detection",
+        "authors"   : [   "brm", "on", "jpb" ],
+        "venue"     : "15th International Society for Music Information Retrieval (ISMIR) conference",
+        "date"      : "2015",
+        "bib"       : "papers/ismir2015_hierarchical_eval.bib",
+        "pdf"       : "papers/ismir2015_hierarchical_eval.pdf"
+    },
     {   "title"     : "librosa: Audio and Music Signal Analysis in Python",
         "authors"   : [   "brm", "cr", "dl", "dpwe", "mm", "eb", "on" ],
         "venue"     : "14th annual Scientific Computing with Python conference (SciPy)",
