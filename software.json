@@ -1,4 +1,8 @@
 {   "software": [
+        {"name":    "JAMS",
+         "url":     "http://github.com/marl/jams/",
+         "desc":    "JAMS: a JSON Annotated Music Specification."},
+
         {"name":    "Ordinal LDA",
          "url":     "http://github.com/bmcfee/olda/",
          "desc":    "Python (sklearn) implementation of ordinal linear discriminant analysis."},
