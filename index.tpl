@@ -24,6 +24,7 @@
                     <li><a href="#hacks">Hacks</a></li>
                 </ul>
             </nav>
+            <iframe src="https://orcid.org/static/html/widget.html?orcid=0000-0001-6261-9747&t=6080cf&locale=en" frameborder="0" height="310" width="210px" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="no" allowtransparency="true"></iframe>
         </div>
         <div class="container col-sm-8 col-sm-offset-2">
             <div class="panel panel-default main" id="home">
