@@ -1,4 +1,8 @@
 {   "software": [
+        {"name":    "muda",
+         "url":     "http://github.com/bmcfee/muda/",
+         "desc":    "muda: Musical Data Augmentation."},
+
         {"name":    "JAMS",
          "url":     "http://github.com/marl/jams/",
          "desc":    "JAMS: a JSON Annotated Music Specification."},
