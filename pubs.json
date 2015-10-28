@@ -5,6 +5,7 @@
         "date"      : "2015",
         "bib"       : "papers/ismir2015_augmentation.bib",
         "pdf"       : "papers/ismir2015_augmentation.pdf",
+        "slides"    : "https://bmcfee.github.io/slides/ismir2015_muda.pdf",
         "code"      : "https://github.com/bmcfee/muda"
     },
     {   "title"     : "Hierarchical evaluation of segment boundary detection",
