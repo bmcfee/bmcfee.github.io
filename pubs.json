@@ -12,6 +12,7 @@
         "authors"   : [   "brm", "on", "jpb" ],
         "venue"     : "15th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2015",
+        "poster"    : "posters/ismir2015_hierarchical_eval_poster.pdf",
         "bib"       : "papers/ismir2015_hierarchical_eval.bib",
         "pdf"       : "papers/ismir2015_hierarchical_eval.pdf"
     },
