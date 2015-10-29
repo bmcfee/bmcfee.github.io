@@ -1,7 +1,7 @@
 {   "pubs": [
     {   "title"     : "A software framework for musical data augmentation",
         "authors"   : [   "brm", "ejh", "jpb"],
-        "venue"     : "15th International Society for Music Information Retrieval (ISMIR) conference",
+        "venue"     : "16th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2015",
         "bib"       : "papers/ismir2015_augmentation.bib",
         "pdf"       : "papers/ismir2015_augmentation.pdf",
@@ -10,7 +10,7 @@
     },
     {   "title"     : "Hierarchical evaluation of segment boundary detection",
         "authors"   : [   "brm", "on", "jpb" ],
-        "venue"     : "15th International Society for Music Information Retrieval (ISMIR) conference",
+        "venue"     : "16th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2015",
         "poster"    : "posters/ismir2015_hierarchical_eval_poster.pdf",
         "bib"       : "papers/ismir2015_hierarchical_eval.bib",
