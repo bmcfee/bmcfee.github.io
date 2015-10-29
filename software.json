@@ -5,7 +5,7 @@
 
         {"name":    "JAMS",
          "url":     "http://github.com/marl/jams/",
-         "desc":    "JAMS: a JSON Annotated Music Specification."},
+         "desc":    "JAMS: a JSON Annotated Music Specification. <a href=\"papers/jams2015.pdf\">v0.2 technical report</a>"},
 
         {"name":    "Ordinal LDA",
          "url":     "http://github.com/bmcfee/olda/",
