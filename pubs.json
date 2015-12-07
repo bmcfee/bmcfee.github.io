@@ -58,7 +58,7 @@
 
     {   "title"     : "Speech enhancement by low-rank and convolutive dictionary spectrogram decomposition",
         "authors"   : [   "zc", "brm", "dpwe" ],
-        "venue"     : "Interspeech (to appear)",
+        "venue"     : "Interspeech",
         "date"      : "2014",
         "bib"       : "papers/is2014_conv.bib",
         "pdf"       : "papers/is2014_conv.pdf",
