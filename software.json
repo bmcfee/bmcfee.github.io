@@ -1,4 +1,8 @@
 {   "software": [
+        {"name":    "resampy",
+         "url":     "http://github.com/bmcfee/resampy/",
+         "desc":    "resampy: efficient audio resampling in Python."},
+
         {"name":    "muda",
          "url":     "http://github.com/bmcfee/muda/",
          "desc":    "muda: Musical Data Augmentation."},
