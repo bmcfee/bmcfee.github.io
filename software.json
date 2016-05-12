@@ -16,7 +16,7 @@
          "desc":    "Python (sklearn) implementation of ordinal linear discriminant analysis."},
 
         {"name":    "LibROSA",
-         "url":     "http://github.com/bmcfee/librosa/",
+         "url":     "http://github.com/librosa/librosa/",
          "desc":    "A python package for music and audio signal analysis."},
 
         {"name":    "MLR",
