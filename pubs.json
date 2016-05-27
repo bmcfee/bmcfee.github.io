@@ -1,4 +1,11 @@
 {   "pubs": [
+    {   "title"     : "A plan for sustainable MIR evaluation",
+        "authors"   : [   "brm", "ejh", "ju"],
+        "venue"     : "17th International Society for Music Information Retrieval (ISMIR) conference (to appear)",
+        "date"      : "2016",
+        "bib"       : "papers/ismir2016_eval.bib",
+        "pdf"       : "papers/ismir2016_eval.pdf"
+    },
     {   "title"     : "A software framework for musical data augmentation",
         "authors"   : [   "brm", "ejh", "jpb"],
         "venue"     : "16th International Society for Music Information Retrieval (ISMIR) conference",
