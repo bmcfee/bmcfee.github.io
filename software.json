@@ -1,4 +1,8 @@
 {   "software": [
+        {"name":    "amen",
+         "url":     "https://github.com/algorithmic-music-exploration/amen",
+         "desc":    "algorithmic music remixing."},
+
         {"name":    "resampy",
          "url":     "http://github.com/bmcfee/resampy/",
          "desc":    "efficient audio resampling in Python."},
