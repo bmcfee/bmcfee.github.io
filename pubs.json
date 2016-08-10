@@ -4,6 +4,7 @@
         "venue"     : "17th International Society for Music Information Retrieval (ISMIR) conference (to appear)",
         "date"      : "2016",
         "bib"       : "papers/ismir2016_eval.bib",
+        "slides"    : "slides/ismir2016_eval.pdf",
         "pdf"       : "papers/ismir2016_eval.pdf"
     },
     {   "title"     : "A software framework for musical data augmentation",
@@ -12,7 +13,7 @@
         "date"      : "2015",
         "bib"       : "papers/ismir2015_augmentation.bib",
         "pdf"       : "papers/ismir2015_augmentation.pdf",
-        "slides"    : "https://bmcfee.github.io/slides/ismir2015_muda.pdf",
+        "slides"    : "slides/ismir2015_muda.pdf",
         "code"      : "https://github.com/bmcfee/muda"
     },
     {   "title"     : "Hierarchical evaluation of segment boundary detection",
