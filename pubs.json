@@ -1,7 +1,15 @@
 {   "pubs": [
+    {   "title"     : "resampy: efficient sample rate conversion in python",
+        "authors"   : ["brm"],
+        "venue"     : "The Journal of Open Source Software",
+        "date"      : "2016",
+        "bib"       : "papers/resampy.bib",
+        "code"      : "https://github.com/bmcfee/resampy",
+        "pdf"       : "http://joss.theoj.org/papers/10.21105/joss.00125"
+    },
     {   "title"     : "A plan for sustainable MIR evaluation",
         "authors"   : [   "brm", "ejh", "ju"],
-        "venue"     : "17th International Society for Music Information Retrieval (ISMIR) conference (to appear)",
+        "venue"     : "17th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2016",
         "bib"       : "papers/ismir2016_eval.bib",
         "slides"    : "slides/ismir2016_eval.pdf",
@@ -53,7 +61,7 @@
         "date"      : "2014",
         "pdf"       : "papers/ismir2014_mireval.pdf",
         "bib"       : "papers/ismir2014_mireval.bib",
-        "notes"     : "Best poster presentation award",
+        "notes"     : "Best poster presentation award"
     },
     
     {   "title"     : "Codebook-based audio feature representation for music information retrieval",
@@ -61,7 +69,7 @@
         "venue"     : "IEEE Transactions on Audio, Speech and Language Processing",
         "date"      : "2014",
         "pdf"       : "papers/taslp2014_codebook.pdf",
-        "bib"       : "papers/taslp2014_codebook.bib",
+        "bib"       : "papers/taslp2014_codebook.bib"
     },
 
     {   "title"     : "Speech enhancement by low-rank and convolutive dictionary spectrogram decomposition",
@@ -69,7 +77,7 @@
         "venue"     : "Interspeech",
         "date"      : "2014",
         "bib"       : "papers/is2014_conv.bib",
-        "pdf"       : "papers/is2014_conv.pdf",
+        "pdf"       : "papers/is2014_conv.pdf"
     },
 
     {   "title"     : "Learning to segment songs with ordinal linear discriminant analysis",
