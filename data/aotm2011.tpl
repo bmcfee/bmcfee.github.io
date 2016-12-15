@@ -6,6 +6,7 @@
         <link href="../bootstrap/css/bootstrap.min.css" rel="stylesheet">
         <link href="../css/base.css" rel="stylesheet">
         <link rel="shortcut icon"   href="../favicon.ico">
+        <script type="text/javascript" src="../analytics.js"></script>
     </head>
 
     <body>

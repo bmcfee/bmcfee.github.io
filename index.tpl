@@ -7,6 +7,7 @@
         <link rel="stylesheet"      href="bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet"      href="css/base.css">
         <link rel="shortcut icon"   href="favicon.ico">
+        <script type="text/javascript" src="analytics.js"></script>
     </head>
 
     <body data-spy="scroll" data-target="#navigator">
