@@ -44,5 +44,8 @@
         "eb":   {"name": "Battenberg, E.",      "url": "http://www.ericbattenberg.com"},
 
         "jpb":   {"name": "Bello, J.P.",        "url": "http://steinhardt.nyu.edu/marl/people/bello"},
+        "rmb":   {"name": "Bittner, R.M.",        "url": "http://steinhardt.nyu.edu/marl/people/bittner"},
+        "pl":   {"name": "Li, P.",        "url": "http://steinhardt.nyu.edu/marl/people/li"}
+
     }
 }
