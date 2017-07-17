@@ -1,4 +1,8 @@
 {   "software": [
+        {"name":    "pescador",
+         "url":     "https://github.com/pescadores/pescador",
+         "desc":    "stream sampling for iterative learning algorithms"
+        },
         {"name":    "amen",
          "url":     "https://github.com/algorithmic-music-exploration/amen",
          "desc":    "algorithmic music remixing."},
