@@ -4,14 +4,16 @@
         "venue"     : "18th International Society for Music Information Retrieval (ISMIR) conference (to appear)",
         "date"      : "2017",
         "bib"       : "papers/ismir2017_chord.bib",
-        "pdf"       : "papers/ismir2017_chord.pdf"
+        "pdf"       : "papers/ismir2017_chord.pdf",
+        "code"      : "https://github.com/bmcfee/ismir2017_chords"
     },
     {   "title"     : "Deep salience representations for F0 estimation in polyphonic music",
         "authors"   : ["rmb", "brm", "js", "pl", "jpb"],
         "venue"     : "18th International Society for Music Information Retrieval (ISMIR) conference (to appear)",
         "date"      : "2017",
         "bib"       : "papers/ismir2017_salience.bib",
-        "pdf"       : "papers/ismir2017_salience.pdf"
+        "pdf"       : "papers/ismir2017_salience.pdf",
+        "code"      : "https://github.com/rabitt/ismir2017-deepsalience"
     },
     {   "title"     : "resampy: efficient sample rate conversion in python",
         "authors"   : ["brm"],
