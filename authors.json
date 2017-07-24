@@ -45,7 +45,8 @@
 
         "jpb":   {"name": "Bello, J.P.",        "url": "http://steinhardt.nyu.edu/marl/people/bello"},
         "rmb":   {"name": "Bittner, R.M.",        "url": "http://steinhardt.nyu.edu/marl/people/bittner"},
-        "pl":   {"name": "Li, P.",        "url": "http://steinhardt.nyu.edu/marl/people/li"}
+        "pl":   {"name": "Li, P.",        "url": "http://steinhardt.nyu.edu/marl/people/li"},
+        "mf":   {"name": "Farbood, M.",        "url": "http://www.nyu.edu/projects/farbood"}
 
     }
 }

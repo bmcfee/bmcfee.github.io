@@ -1,4 +1,10 @@
 {   "pubs": [
+    {   "title"     : "Evaluating hierarchical structure in music annotations",
+        "authors"   : ["brm","on", "mf", "jpb"],
+        "venue"     : "Frontiers in Psychology (to appear)",
+        "date"      : "2017",
+        "code"      : "https://github.com/bmcfee/segment_hierarchy_labels"
+    },
     {   "title"     : "Structured training for large-vocabulary chord recognition",
         "authors"   : ["brm", "jpb"],
         "venue"     : "18th International Society for Music Information Retrieval (ISMIR) conference (to appear)",
