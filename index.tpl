@@ -115,6 +115,9 @@
                                 {% if pub.data %}
                                     <a href="{{ pub.data }}"><span class="glyphicon glyphicon-folder-open" title="data"></span><span class="sr-only">data</span></a> |
                                 {% endif %}
+                                {% if pub.web %}
+                                    <a href="{{ pub.web }}"><span class="glyphicon glyphicon-cloud" title="web"></span><span class="sr-only">web</span></a> |
+                                {% endif %}
                                 {% if pub.bib %}
                                     <a href="{{ pub.bib }}"><span class="glyphicon glyphicon-retweet" title="bib"></span><span class="sr-only">bib</span></a> | 
                                 {% endif %}

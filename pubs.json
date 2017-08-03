@@ -3,7 +3,10 @@
         "authors"   : ["brm","on", "mf", "jpb"],
         "venue"     : "Frontiers in Psychology (to appear)",
         "date"      : "2017",
-        "code"      : "https://github.com/bmcfee/segment_hierarchy_labels"
+        "code"      : "https://github.com/bmcfee/segment_hierarchy_labels",
+        "web"       : "http://journal.frontiersin.org/article/10.3389/fpsyg.2017.01337/full",
+        "bib"       : "papers/frontiers2017_evaluating.bib",
+        "pdf"       : "papers/frontiers2017_evaluating.pdf"
     },
     {   "title"     : "Structured training for large-vocabulary chord recognition",
         "authors"   : ["brm", "jpb"],
