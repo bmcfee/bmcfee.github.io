@@ -1,7 +1,7 @@
 {   "pubs": [
     {   "title"     : "Evaluating hierarchical structure in music annotations",
         "authors"   : ["brm","on", "mf", "jpb"],
-        "venue"     : "Frontiers in Psychology (to appear)",
+        "venue"     : "Frontiers in Psychology",
         "date"      : "2017",
         "code"      : "https://github.com/bmcfee/segment_hierarchy_labels",
         "web"       : "http://journal.frontiersin.org/article/10.3389/fpsyg.2017.01337/full",
