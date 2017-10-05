@@ -16,11 +16,11 @@
                 <ul class="nav nav-stacked">
                     <li class="active"><a href="#home">Home</a></li>
                     <li class="divider"></li>
-                    <li><a href="#teaching">Teaching</a></li>
-                    <li class="divider"></li>
                     <li><a href="#pubs">Publications</a></li>
                     <li class="divider"></li>
                     <li><a href="#resources">Software / data</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#teaching">Teaching</a></li>
                     <li class="divider"></li>
                     <li><a href="#hacks">Hacks</a></li>
                 </ul>
@@ -75,18 +75,6 @@
                     <p>
                         For a full history, here's my <a href="cv-brianmcfee.pdf">curriculum vit&aelig;</a>.
                     </p>
-                </div>
-            </div>
-
-            <div class="panel panel-default" id="teaching">
-                <div class="panel-heading"><h4>Teaching</h4></div>
-                <div class="panel-body">
-                    <dl class="dl-horizontal">
-                    {% for class in classes %}
-                        <dt>{{ class.date }}</dt>
-                        <dd><a href="{{ class.url }}">{{ class.desc }}</a></dd>
-                    {% endfor %}
-                    </dl>
                 </div>
             </div>
 
@@ -179,6 +167,18 @@
                     {% for item in data %}
                         <dt> <a href="{{ item.url }}">{{ item.name }}</a> </dt>
                         <dd> {{ item.desc }} </dd>
+                    {% endfor %}
+                    </dl>
+                </div>
+            </div>
+
+            <div class="panel panel-default" id="teaching">
+                <div class="panel-heading"><h4>Teaching</h4></div>
+                <div class="panel-body">
+                    <dl class="dl-horizontal">
+                    {% for class in classes %}
+                        <dt>{{ class.date }}</dt>
+                        <dd><a href="{{ class.url }}">{{ class.desc }}</a></dd>
                     {% endfor %}
                     </dl>
                 </div>
