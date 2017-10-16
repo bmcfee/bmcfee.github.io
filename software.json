@@ -1,4 +1,8 @@
 {   "software": [
+        {"name":    "crema",
+         "url":     "https://github.com/bmcfee/crema",
+         "desc":    "convolutional and recurrent estimators for music analysis"
+        },
         {"name":    "pescador",
          "url":     "https://github.com/pescadores/pescador",
          "desc":    "stream sampling for iterative learning algorithms"
