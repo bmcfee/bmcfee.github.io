@@ -23,6 +23,7 @@
         "date"      : "2017",
         "bib"       : "papers/ismir2017_salience.bib",
         "pdf"       : "papers/ismir2017_salience.pdf",
+        "notes"     : "Best student paper award",
         "code"      : "https://github.com/rabitt/ismir2017-deepsalience"
     },
     {   "title"     : "resampy: efficient sample rate conversion in python",
