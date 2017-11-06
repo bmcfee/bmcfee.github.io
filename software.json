@@ -3,6 +3,10 @@
          "url":     "https://github.com/bmcfee/crema",
          "desc":    "convolutional and recurrent estimators for music analysis"
         },
+        {"name":    "pumpp",
+         "url":     "https://github.com/bmcfee/pumpp",
+         "desc":    "practically universal music pre-processor"
+        },
         {"name":    "pescador",
          "url":     "https://github.com/pescadores/pescador",
          "desc":    "stream sampling for iterative learning algorithms"
