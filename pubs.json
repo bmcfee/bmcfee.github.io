@@ -26,6 +26,14 @@
         "notes"     : "Best student paper award",
         "code"      : "https://github.com/rabitt/ismir2017-deepsalience"
     },
+    {
+        "title"     : "Statistical methods for scene and event classification",
+        "authors"   : ["brm"],
+        "date"      : "2017",
+        "pdf"       : "https://link.springer.com/chapter/10.1007/978-3-319-63450-0_5",
+        "venue"     : "Computational Analysis of Sound Scenes and Events",
+        "bib"       : "papers/casse2017chap05.bib"
+    },
     {   "title"     : "resampy: efficient sample rate conversion in python",
         "authors"   : ["brm"],
         "venue"     : "The Journal of Open Source Software",

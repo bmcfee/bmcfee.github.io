@@ -18,7 +18,7 @@
                     <li class="divider"></li>
                     <li><a href="#pubs">Publications</a></li>
                     <li class="divider"></li>
-                    <li><a href="#resources">Software / data</a></li>
+                    <li><a href="#resources">Software and data</a></li>
                     <li class="divider"></li>
                     <li><a href="#teaching">Teaching</a></li>
                     <li class="divider"></li>
