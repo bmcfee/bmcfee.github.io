@@ -7,7 +7,7 @@
         "bib"       : "papers/ismir2018_openmic.bib"
     },
     {   "title"     : "Analysis of common design choices in deep learning systems for downbeat tracking",
-        "authors"   : ["mfu", "brm", "hp", "se", "jpb"],
+        "authors"   : ["mfu", "brm", "hc", "se", "jpb"],
         "venue"     : "19th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2018",
         "bib"       : "papers/ismir2018_downbeat.bib"

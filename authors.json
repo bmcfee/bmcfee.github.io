@@ -50,7 +50,7 @@
         "sd": {"name": "Durand, S.", "url": "https://simondurand.github.io/index.html"},
         "mfu":   {"name": "Fuentes, M.",        "url": ""},
         "se": {"name": "Essid, S.", "url": "https://perso.telecom-paristech.fr/essid/"},
-        "hp": {"name": "Papadopoulos, H.", "url": "http://www.helenepapadopoulos.com/"},
+        "hc": {"name": "Crayencour, H.", "url": "http://www.helenepapadopoulos.com/"},
         "vat": {"name": "Trinh, V.A.", "url": "http://trinhvietanh.com/"},
         "mim": {"name": "Mandel, M.", "url": "http://mr-pc.org/"}
     }
