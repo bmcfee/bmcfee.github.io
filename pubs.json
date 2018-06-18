@@ -16,6 +16,7 @@
         "authors"   : ["vat", "brm", "mim"],
         "venue"     : "InterSpeech",
         "date"      : "2018",
+        "pdf"       : "papers/interspeech2018_bcn.bub",
         "bib"       : "papers/interspeech2018_bcn.bub"
     },
     {   "title"     : "Evaluating hierarchical structure in music annotations",
