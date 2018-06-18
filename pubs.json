@@ -10,14 +10,15 @@
         "authors"   : ["mfu", "brm", "hc", "se", "jpb"],
         "venue"     : "19th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2018",
+        "pdf"       : "papers/ismir2018_downbeat.pdf",
         "bib"       : "papers/ismir2018_downbeat.bib"
     },
     {   "title"     : "Bubble cooperative networks for identifying important speech cues",
         "authors"   : ["vat", "brm", "mim"],
         "venue"     : "InterSpeech",
         "date"      : "2018",
-        "pdf"       : "papers/interspeech2018_bcn.bub",
-        "bib"       : "papers/interspeech2018_bcn.bub"
+        "pdf"       : "papers/interspeech2018_bcn.pdf",
+        "bib"       : "papers/interspeech2018_bcn.bib"
     },
     {   "title"     : "Evaluating hierarchical structure in music annotations",
         "authors"   : ["brm","on", "mf", "jpb"],
