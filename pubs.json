@@ -1,4 +1,12 @@
 {   "pubs": [
+    {   "title"     : "Adaptive pooling operators for weakly labeled sound event detection",
+        "authors"   : ["brm", "js", "jpb"],
+        "venue"     : "IEEE Transactions on Audio, Speech and Language Processing",
+        "date"      : "2018",
+        "code"      : "https://github.com/marl/autopool",
+        "pdf"       : "papers/taslp2018_adaptive.pdf",
+        "bib"       : "papers/taslp2018_adaptive.bib"
+    },
     {   "title"     : "OpenMIC-2018: An open dataset for multiple instrument recognition",
         "authors"   : ["ejh", "sd", "brm"],
         "venue"     : "19th International Society for Music Information Retrieval (ISMIR) conference",
