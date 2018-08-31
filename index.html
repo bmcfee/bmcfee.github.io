@@ -36,6 +36,13 @@
             src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
             style="width:1em;margin-right:.5em;" alt="ORCID iD
             icon">orcid.org/0000-0001-6261-9747</a></h4>
+                    <p>
+                        Assistant Professor of Music Technology and Data Science 
+                        at <a href="http://www.nyu.edu/">New York University</a>
+                    </p>
+                    <p>
+                        <a href="http://steinhardt.nyu.edu/music/">Music and Performing Arts Professions</a> and <a href="http://cds.nyu.edu">Center for Data Science</a>
+                    </p>
                 
                 </div>
                 <div class="panel-body">
@@ -47,11 +54,6 @@
                         cross-modal feature integration, and automatic annotation.
                     </p>
 
-                    <p>
-                        As of Fall, 2018, I am an Assistant Professor of Music Technology and Data Science 
-                        at <a href="http://www.nyu.edu/">New York University</a>, 
-                        in the <a href="http://steinhardt.nyu.edu/marl/">Music and Audio Research Lab</a> and <a href="http://cds.nyu.edu">Center for Data Science</a>.
-                    </p>
                     <p>
                         Previously, I was a Moore-Sloan fellow at NYU, and a postdoctoral research scholar in the <a
                         href="http://jazz.columbia.edu/">Center for Jazz Studies</a> and <a
