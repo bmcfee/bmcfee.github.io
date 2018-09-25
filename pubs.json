@@ -11,6 +11,8 @@
         "authors"   : ["ejh", "sd", "brm"],
         "venue"     : "19th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2018",
+        "code"      : "https://github.com/cosmir/openmic-2018/",
+        "data"      : "https://zenodo.org/record/1432913",
         "pdf"       : "papers/ismir2018_openmic.pdf",
         "bib"       : "papers/ismir2018_openmic.bib"
     },
