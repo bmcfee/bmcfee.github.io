@@ -1,4 +1,11 @@
 {   "pubs": [
+    {   "title"     : "Per-channel energy normalization: why and how",
+        "authors"   : ["vl", "js", "mc", "brm", "af", "sk", "jpb"],
+        "venue"     : "IEEE Signal Processing Letters",
+        "date"      : "2018",
+        "pdf"       : "papers/spl2018_pcen.pdf",
+        "bib"       : "papers/spl2018_pcen.bib"
+    },
     {   "title"     : "Adaptive pooling operators for weakly labeled sound event detection",
         "authors"   : ["brm", "js", "jpb"],
         "venue"     : "IEEE Transactions on Audio, Speech and Language Processing",

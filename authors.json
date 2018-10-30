@@ -52,6 +52,10 @@
         "se": {"name": "Essid, S.", "url": "https://perso.telecom-paristech.fr/essid/"},
         "hc": {"name": "Crayencour, H.", "url": "http://www.helenepapadopoulos.com/"},
         "vat": {"name": "Trinh, V.A.", "url": "http://trinhvietanh.com/"},
+        "vl": {"name": "Lostanlen, V.", "url": "https://steinhardt.nyu.edu/marl/people/lostanlen"},
+        "mc": {"name": "Cartwright, M.", "url": "http://www.markcartwright.com/"},
+        "af": {"name": "Farnsworth, A.", "url": "http://birdcast.info/person/farnsworth/"},
+        "sk": {"name": "Kelling, S.", "url": "http://www.birds.cornell.edu/it/staff/staff_steve.html"},
         "mim": {"name": "Mandel, M.", "url": "http://mr-pc.org/"}
     }
 }
