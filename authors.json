@@ -56,6 +56,7 @@
         "mc": {"name": "Cartwright, M.", "url": "http://www.markcartwright.com/"},
         "af": {"name": "Farnsworth, A.", "url": "http://birdcast.info/person/farnsworth/"},
         "sk": {"name": "Kelling, S.", "url": "http://www.birds.cornell.edu/it/staff/staff_steve.html"},
-        "mim": {"name": "Mandel, M.", "url": "http://mr-pc.org/"}
+        "mim": {"name": "Mandel, M.", "url": "http://mr-pc.org/"},
+        "jwk": {"name": "Kim, J.W.", "url": "https://jongwook.kim/"}
     }
 }

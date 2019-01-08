@@ -1,10 +1,18 @@
 {   "pubs": [
+    {   "title"     : "Open source practices for music signal processing research",
+        "authors"   : ["brm", "jwk", "mc", "js", "rmb", "jpb"],
+        "venue"     : "IEEE Signal Processing Magazine",
+        "date"      : "2019",
+        "pdf"       : "https://ieeexplore.ieee.org/abstract/document/8588406/",
+        "bib"       : "papers/spm-oss.bib"
+    },
     {   "title"     : "Per-channel energy normalization: why and how",
         "authors"   : ["vl", "js", "mc", "brm", "af", "sk", "jpb"],
         "venue"     : "IEEE Signal Processing Letters",
-        "date"      : "2018",
-        "pdf"       : "papers/spl2018_pcen.pdf",
-        "bib"       : "papers/spl2018_pcen.bib"
+        "date"      : "2019",
+        "web"       : "https://ieeexplore.ieee.org/abstract/document/8514023/",
+        "pdf"       : "papers/spl2019_pcen.pdf",
+        "bib"       : "papers/spl2019_pcen.bib"
     },
     {   "title"     : "Adaptive pooling operators for weakly labeled sound event detection",
         "authors"   : ["brm", "js", "jpb"],
