@@ -1,4 +1,8 @@
 {   "data": [
+        {"name":    "Open-MIC 2018",
+         "url":     "https://zenodo.org/record/1432913#.W6dPeJNKjOR",
+         "desc":    "Audio and partial instrument annotations for 20,000 10-second clips"
+        },
         {"name":    "MSD Challenge",
          "url":     "http://www.kaggle.com/c/msdchallenge/data/",
          "desc":    "Large-scale music recommendation on the <a href=\"http://labrosa.ee.columbia.edu/millionsong/\">Million Song Dataset</a>.  See also the <a href=\"http://labrosa.ee.columbia.edu/millionsong/challenge#data1\">year 1 test set</a>.  "},

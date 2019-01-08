@@ -1,6 +1,12 @@
 {   "classes": [
+        {"date":    "Spring 2019",
+         "desc":    "(NYU) DS-GA 1004: Big Data"
+        },
+        {"date":    "Fall 2018",
+         "desc":    "(NYU) MPATE-GE 2599: Fundamentals of Digital Signals Theory I"
+        },
         {"date":    "Spring 2014",
          "url":     "http://www.ee.columbia.edu/~dpwe/e6891/",
-         "desc":    "EECS E6891: Reproducing computational results"}
+         "desc":    "(Columbia) EECS E6891: Reproducing computational results"}
     ]
 }

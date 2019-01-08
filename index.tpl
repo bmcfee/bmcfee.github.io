@@ -180,7 +180,13 @@
                     <dl class="dl-horizontal">
                     {% for class in classes %}
                         <dt>{{ class.date }}</dt>
-                        <dd><a href="{{ class.url }}">{{ class.desc }}</a></dd>
+                        <dd>
+                            {%- if class.url -%}
+                                <a href="{{ class.url }}">{{ class.desc }}</a>
+                            {%- else -%}
+                                {{ class.desc }}
+                            {%- endif -%}
+                        </dd>
                     {% endfor %}
                     </dl>
                 </div>
