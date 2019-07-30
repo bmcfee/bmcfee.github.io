@@ -1,14 +1,14 @@
 {   "pubs": [
     {   "title"     : "Enhanced hierarchical music structure annotations via feature level similarity fusion",
         "authors"   : ["cjt", "brm"],
-        "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).  To appear.",
+        "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
         "date"      : "2019",
         "pdf"       : "https://arxiv.org/abs/1902.01023",
         "bib"       : "papers/icassp2019_snf.bib"
     },
     {   "title"     : "A music structure informed downbeat tracking system using skip-chain conditional random fields and deep learning",
         "authors"   : ["mfu", "brm", "hc", "se", "jpb"],
-        "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).  To appear.",
+        "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
         "date"      : "2019",
         "pdf"       : "papers/icassp2019_beat.pdf",
         "bib"       : "papers/icassp2019_beat.bib"
