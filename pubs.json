@@ -1,4 +1,11 @@
 {   "pubs": [
+    {   "title"     : "Voice anonymization in urban sound recordings",
+        "authors"   : ["ach", "mc", "brm", "jpb"],
+        "venue"     : "International workshop on machine learning for signal processing (MLSP).  To appear.",
+        "date"      : "2019",
+        "pdf"       : "papers/mlsp2019anonymization.pdf",
+        "bib"       : "papers/mlsp2019anonymization.bib"
+    },
     {   "title"     : "Enhanced hierarchical music structure annotations via feature level similarity fusion",
         "authors"   : ["cjt", "brm"],
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
