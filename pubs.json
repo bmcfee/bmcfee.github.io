@@ -1,4 +1,11 @@
 {   "pubs": [
+    {   "title"     : "Improving structure evaluation through automatic hierarchy expansion",
+        "authors"   : ["brm", "kmk"],
+        "venue"     : "International society for music information retrieval (ISMIR) conference.  To appear.",
+        "date"      : "2019",
+        "pdf"       : "papers/ismir2019improving.pdf",
+        "bib"       : "papers/ismir2019improving.bib"
+    },
     {   "title"     : "Voice anonymization in urban sound recordings",
         "authors"   : ["ach", "mc", "brm", "jpb"],
         "venue"     : "International workshop on machine learning for signal processing (MLSP).  To appear.",

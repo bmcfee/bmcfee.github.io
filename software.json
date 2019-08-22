@@ -1,4 +1,8 @@
 {   "software": [
+        {"name":    "autopool",
+            "url":  "https://github.com/marl/autopool",
+            "desc":     "automatic pooling for multiple instance learning"
+        },
         {"name":    "crema",
          "url":     "https://github.com/bmcfee/crema",
          "desc":    "convolutional and recurrent estimators for music analysis"
