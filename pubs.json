@@ -3,8 +3,8 @@
         "authors"   : ["brm", "kmk"],
         "venue"     : "International society for music information retrieval (ISMIR) conference.  To appear.",
         "date"      : "2019",
-        "pdf"       : "papers/ismir2019improving.pdf",
-        "bib"       : "papers/ismir2019improving.bib"
+        "pdf"       : "papers/ismir2019expansion.pdf",
+        "bib"       : "papers/ismir2019expansion.bib"
     },
     {   "title"     : "Voice anonymization in urban sound recordings",
         "authors"   : ["ach", "mc", "brm", "jpb"],
