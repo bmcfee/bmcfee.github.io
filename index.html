@@ -66,9 +66,8 @@
                         href="http://cosmal.ucsd.edu/cal">Computer Audition Lab</a> and <a
                         href="http://ai.ucsd.edu">Artificial Intelligence Group</a> at the <a
                         href="http://www.ucsd.edu">University of California, San&nbsp;Diego</a>.  
-                    </p>
-                    <p>
-                        In May, 2012, I defended my dissertation, titled 
+
+                        Here's a link to my dissertation:
                             <em>More like this: machine learning approaches to music similarity</em> [<small><a
                             href="papers/bmcfee_dissertation.bib"><span class="glyphicon glyphicon-retweet" title="bib"></span><span class="sr-only">bib</span></a>|<a
                             href="papers/bmcfee_dissertation.pdf"><span class="glyphicon glyphicon-file" title="pdf"></span><span class="sr-only">pdf</span></a></small>].
