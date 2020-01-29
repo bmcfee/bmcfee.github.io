@@ -1,14 +1,21 @@
 {   "pubs": [
+    {   "title"     : "Learning the helix topology of musical pitch",
+        "authors"   : ["vl", "ss", "brm", "af", "jpb"],
+        "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
+        "date"      : "2020",
+        "pdf"       : "https://arxiv.org/abs/1910.10246",
+        "bib"       : "papers/icassp2020helix.bib"
+    },
     {   "title"     : "Improving structure evaluation through automatic hierarchy expansion",
         "authors"   : ["brm", "kmk"],
-        "venue"     : "International society for music information retrieval (ISMIR) conference.  To appear.",
+        "venue"     : "International society for music information retrieval (ISMIR) conference.",
         "date"      : "2019",
         "pdf"       : "papers/ismir2019expansion.pdf",
         "bib"       : "papers/ismir2019expansion.bib"
     },
     {   "title"     : "Voice anonymization in urban sound recordings",
         "authors"   : ["ach", "mc", "brm", "jpb"],
-        "venue"     : "International workshop on machine learning for signal processing (MLSP).  To appear.",
+        "venue"     : "International workshop on machine learning for signal processing (MLSP).",
         "date"      : "2019",
         "pdf"       : "papers/mlsp2019anonymization.pdf",
         "bib"       : "papers/mlsp2019anonymization.bib"

@@ -60,6 +60,7 @@
         "jwk": {"name": "Kim, J.W.", "url": "https://jongwook.kim/"},
         "cjt": {"name": "Tralie, C.J.", "url": "https://www.ctralie.com/"},
         "ach": {"name": "Cohen-Hadria, A.", "url": "https://alicecohenh.github.io/"},
-        "kmk": {"name": "Kinnaird, K.", "url": "http://katherinemkinnaird.net/"}
+        "kmk": {"name": "Kinnaird, K.", "url": "http://katherinemkinnaird.net/"},
+        "ss": {"name": "Sridar, S."}
     }
 }
