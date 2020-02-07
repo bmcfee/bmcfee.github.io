@@ -78,6 +78,16 @@
                     </p>
                 </div>
             </div>
+            
+            <div class="panel panel-default" id="students">
+                <div class="panel-heading"><h4>Ph.D. Students</h4></div>
+                <div class="panel-body">
+                    <ul>
+                        <li><a href="https://tomxi.weebly.com/">Qingyang (Tom) Xi</a> (Music Technology)</li>
+                        <li>Chris Ick (Data Science)</li>
+                    </ul>
+                </div>
+            </div>
 
             <div class="panel panel-default" id="pubs">
                 <div class="panel-heading"><h4>Publications</h4></div>
