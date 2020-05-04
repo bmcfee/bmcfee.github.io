@@ -1,4 +1,10 @@
 {   "pubs": [
+    {   "title"     : "Entrofy your cohort: a transparent method for diverse cohort selection",
+        "authors"   : ["dh", "brm", "ln"],
+        "venue"     : "PLOS ONE",
+        "date"      : "2020",
+        "pdf"       : "https://arxiv.org/abs/1905.03314"
+    },
     {   "title"     : "Learning the helix topology of musical pitch",
         "authors"   : ["vl", "ss", "brm", "af", "jpb"],
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
