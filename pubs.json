@@ -3,7 +3,8 @@
         "authors"   : ["dh", "brm", "ln"],
         "venue"     : "PLOS ONE",
         "date"      : "2020",
-        "pdf"       : "https://arxiv.org/abs/1905.03314"
+        "pdf"       : "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231939",
+        "bib"       : "papers/entrofy2020.bib"
     },
     {   "title"     : "Learning the helix topology of musical pitch",
         "authors"   : ["vl", "ss", "brm", "af", "jpb"],
