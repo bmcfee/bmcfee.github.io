@@ -1,8 +1,11 @@
 {   "classes": [
-        {"date":    "Spring 2019",
+        {"date":    "Fall 2020",
+         "desc":    "(NYU) DS-GA 3001: Search and Discovery"
+        },
+        {"date":    "Spring 2019, 2020",
          "desc":    "(NYU) DS-GA 1004: Big Data"
         },
-        {"date":    "Fall 2018",
+        {"date":    "Fall 2018, 2019, 2020",
          "desc":    "(NYU) MPATE-GE 2599: Fundamentals of Digital Signals Theory I"
         },
         {"date":    "Spring 2014",
