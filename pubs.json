@@ -1,4 +1,10 @@
 {   "pubs": [
+    {   "title"     : "Multiple F0 estimation in vocal ensembles using convolutional neural networks",
+        "authors"   : ["hc2", "brm", "eg"],
+        "venue"     : "International society for music information retrieval (ISMIR) conference.",
+        "date"      : "2020",
+        "pdf"       : "https://arxiv.org/pdf/2009.04172.pdf"
+    },
     {   "title"     : "Entrofy your cohort: a transparent method for diverse cohort selection",
         "authors"   : ["dh", "brm", "ln"],
         "venue"     : "PLOS ONE",
