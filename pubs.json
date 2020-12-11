@@ -1,4 +1,11 @@
 {   "pubs": [
+    {   "title"     : "Audio-Based Music Structure Analysis: Current Trends, Open Challenges, and Applications",
+        "authors"   : ["on", "gjm", "ciw", "jbls", "js", "tg", "brm"],
+        "venue"     : "Transactions of the International Society for Music Information Retrieval",
+        "date"      : "2020",
+        "web"        : "https://transactions.ismir.net/articles/10.5334/tismir.54/",
+        "pdf"       : "https://transactions.ismir.net/articles/10.5334/tismir.54/galley/73/download/"
+    },
     {   "title"     : "Multiple F0 estimation in vocal ensembles using convolutional neural networks",
         "authors"   : ["hc2", "brm", "eg"],
         "venue"     : "International society for music information retrieval (ISMIR) conference.",
