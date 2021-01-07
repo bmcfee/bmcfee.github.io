@@ -1,6 +1,6 @@
 {   "pubs": [
     {   "title"     : "Audio-Based Music Structure Analysis: Current Trends, Open Challenges, and Applications",
-        "authors"   : ["on", "gjm", "ciw", "jbls", "js", "tg", "brm"],
+        "authors"   : ["on", "gjm", "ciw", "jbls", "js2", "tg", "brm"],
         "venue"     : "Transactions of the International Society for Music Information Retrieval",
         "date"      : "2020",
         "web"        : "https://transactions.ismir.net/articles/10.5334/tismir.54/",
