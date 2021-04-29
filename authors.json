@@ -70,6 +70,13 @@
         "ciw": {"name": "Wang, C.",  "url": "https://wangsix.github.io/"},
         "jbls": {"name": "Smith, J.B.L.",  "url": "https://jblsmith.github.io/"},
         "js2": {"name": "Schlüter, J.",  "url": "https://www.jku.at/en/institute-of-computational-perception/about-us/people/jan-schlueter/"},
-        "tg": {"name": "Grill, T.",  "url": "https://grrrr.org/"}
+        "tg": {"name": "Grill, T.",  "url": "https://grrrr.org/"},
+        "mmul": {"name": "Müller, M.", "url": "https://www.audiolabs-erlangen.de/fau/professor/mueller"},
+        "ci": {"name": "Ick, C."},
+        "hhw": {"name": "Wu, H.H."},
+        "cck": {"name": "Kao, C.C."},
+        "qt": {"name": "Tang, Q."},
+        "msun": {"name": "Sun, M."},
+        "cw": {"name": "Wang, C."}
     }
 }

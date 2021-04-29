@@ -1,8 +1,31 @@
 {   "pubs": [
+    {
+        "title":    "Sound Event Detection in Urban Audio With Single and Multi-Rate PCEN",
+        "authors":  ["ci", "brm"],
+        "date":     "2021",
+        "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
+        "web":      "https://arxiv.org/abs/2102.03468"
+    },
+    {
+        "title":    "Multi-Task Self-Supervised Pre-Training for Music Classification",
+        "authors":  ["hhw", "cck", "qt", "msun", "brm", "jpb", "cw"],
+        "date":     "2021",
+        "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
+        "web":      "https://arxiv.org/abs/2102.03229"
+    },
+    {
+        "authors"   : ["mmul", "brm", "kmk"],
+        "web"       : "https://ieeexplore.ieee.org/document/9418542",
+        "date"      : "2021",
+        "venue"     : "IEEE Signal Processing Magazine",
+        "title"     : "Interactive Learning of Signal Processing Through Music: Making Fourier Analysis Concrete for Students",
+        "bib"       : "papers/mueller2021interactive.bib"
+    },
     {   "title"     : "Audio-Based Music Structure Analysis: Current Trends, Open Challenges, and Applications",
         "authors"   : ["on", "gjm", "ciw", "jbls", "js2", "tg", "brm"],
         "venue"     : "Transactions of the International Society for Music Information Retrieval",
         "date"      : "2020",
+        "bib"       : "papers/nieto2020structure.bib",
         "web"        : "https://transactions.ismir.net/articles/10.5334/tismir.54/",
         "pdf"       : "https://transactions.ismir.net/articles/10.5334/tismir.54/galley/73/download/"
     },
@@ -10,6 +33,7 @@
         "authors"   : ["hc2", "brm", "eg"],
         "venue"     : "International society for music information retrieval (ISMIR) conference.",
         "date"      : "2020",
+        "bib"       : "papers/cuesta2021multiple.bib",
         "pdf"       : "https://arxiv.org/pdf/2009.04172.pdf"
     },
     {   "title"     : "Entrofy your cohort: a transparent method for diverse cohort selection",
