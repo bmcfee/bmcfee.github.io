@@ -1,9 +1,18 @@
 {   "pubs": [
     {
+        "title":    "Automatic Hierarchy Expansion for Improved Structure and Chord Evaluation",
+        "authors":  ["kmk", "brm"],
+        "date": "2021",
+        "venue"     : "Transactions of the International Society for Music Information Retrieval",
+        "web":      "https://transactions.ismir.net/articles/10.5334/tismir.71/",
+        "bib":      "papers/kinnaird2021automatic.bib"
+    },
+    {
         "title":    "Sound Event Detection in Urban Audio With Single and Multi-Rate PCEN",
         "authors":  ["ci", "brm"],
         "date":     "2021",
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
+        "bib":      "papers/icassp2021ick.bib",
         "web":      "https://arxiv.org/abs/2102.03468"
     },
     {
@@ -11,6 +20,7 @@
         "authors":  ["hhw", "cck", "qt", "msun", "brm", "jpb", "cw"],
         "date":     "2021",
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
+        "bib":      "papers/icassp2021wu.bib",
         "web":      "https://arxiv.org/abs/2102.03229"
     },
     {
