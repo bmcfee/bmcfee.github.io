@@ -63,7 +63,7 @@
                     <ul>
                         <li><a href="https://tomxi.weebly.com/">Qingyang (Tom) Xi</a> (Music Technology)</li>
                         <li>Chris Ick (Data Science)</li>
-                        <li>Elena Georgieva (Music Technology)</li>
+                        <li><a href="https://elenetheodora.com/">Elena Georgieva</a> (Music Technology)</li>
                     </ul>
                 </div>
             </div>
