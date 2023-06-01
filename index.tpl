@@ -7,8 +7,18 @@
         <link rel="stylesheet"      href="bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet"      href="css/base.css">
         <link rel="shortcut icon"   href="favicon.ico">
-        <script type="text/javascript" src="analytics.js"></script>
     </head>
+
+
+<!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-TZYH0MJJ8M"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-TZYH0MJJ8M');
+    </script>
 
     <body data-spy="scroll" data-target="#navigator">
         <div class="container col-sm-2 well well-sm" id="navigator">
@@ -37,10 +47,8 @@
                         at <a href="http://www.nyu.edu/">New York University</a>
                     </p>
                     <p>
-                        <a href="http://steinhardt.nyu.edu/music/">Music and
-                        Performing Arts Professions</a>/<a
-                        href="http://https://steinhardt.nyu.edu/marl">Music and
-                        Audio Research Lab (MARL)</a> and <a href="http://cds.nyu.edu">Center for Data Science</a>
+                        <a href="http://steinhardt.nyu.edu/music/">Music and Performing Arts Professions</a>/<a
+                        href="http://https://steinhardt.nyu.edu/marl">Music and Audio Research Lab (MARL)</a> and <a href="http://cds.nyu.edu">Center for Data Science</a>
                     </p>
                 
                 </div>
