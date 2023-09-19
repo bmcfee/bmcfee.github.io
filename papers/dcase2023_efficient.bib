@@ -1,0 +1,10 @@
+@inproceedings{Lostanlen2023,
+    author = "Lostanlen, Vincent and McFee, Brian",
+    title = "Efficient Evaluation Algorithms for Sound Event Detection",
+    booktitle = "Proceedings of the 8th Detection and Classification of Acoustic Scenes and Events 2023 Workshop (DCASE2023)",
+    address = "Tampere, Finland",
+    month = "September",
+    year = "2023",
+    pages = "111--115",
+    abstract = "The prediction of a sound event detection (SED) system may be represented on a timeline by intervals whose bounds correspond to onset and offset respectively. In this context, SED evaluation requires to find all non-empty intersections between predicted and reference intervals. Denoting by M and N the number of predicted events and reference events, the time complexity of exhaustive search is O(MN). This is particularly inefficient when the acoustic scene of interest contains many events (typically above 10^3) or when the detection threshold is low. Our article presents an algorithm for pairwise intersection of intervals by performing binary search within sorted onset and offset times. Computational benchmarks on the BirdVox-full-night dataset confirms that our algorithm is significantly faster than exhaustive search. Moreover, we explain how to use this list of intersecting prediction--reference pairs for the purpose of SED evaluation: the Hopcroft-Karp algorithm guarantees an optimal bipartite matching in time O((M+N)^{3/2}) in the best case (all events are pairwise disjoint) and O((M+N)^{5/2}) in the worst case (all events overlap with each other). The solution found by Hopcroft-Karp unambiguously defines a number of true positives, false positives, and false negatives; and ultimately, information retrieval metrics such as precision, recall, and F-score."
+}

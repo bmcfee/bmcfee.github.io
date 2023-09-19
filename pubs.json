@@ -1,4 +1,40 @@
 {   "pubs": [
+    {   "title"     : "Leveraging Geometrical Acoustic Simulations of Spatial Room Impulse Responses for Improved Sound Event Detection and Localization",
+        "authors"   : ["ci", "brm"],
+        "venue"     : "Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)",
+        "date"      : "2023",
+        "bib"       : "papers/dcase2023_srir.bib",
+        "pdf"       : "papers/dcase2023_srir.pdf"
+    },
+    {   "title"     : "Efficient Evaluation Algorithms for Sound Event Detection",
+        "authors"   : ["vl", "brm"],
+        "venue"     : "Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)",
+        "date"      : "2023",
+        "bib"       : "papers/dcase2023_efficient.bib",
+        "pdf"       : "papers/dcase2023_efficient.pdf"
+    },
+    {   "title"     : "Foley Sound Synthesis at the DCASE 2023 Challenge",
+        "authors"   : ["kc", "ji", "lmh", "brm", "ki", "yo", "ml", "st"],
+        "venue"     : "Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)",
+        "date"      : "2023",
+        "bib"       : "papers/dcase2023_foley.bib",
+        "pdf"       : "papers/dcase2023_foley.pdf"
+    },
+    {   "title"     : "Automatic recognition of cascaded guitar effects",
+        "authors"   : ["jg", "brm"],
+        "venue"     : "International conference on digital audio effects (DAFx)",
+        "date"      : "2023",
+        "code"      : "https://github.com/fisheggg/SFXlearner",
+        "pdf"       : "https://dafx.de/paper-archive/2023/DAFx23_paper_30.pdf",
+        "bib"       : "papers/dafx2023_guitar.bib"
+    },
+    {   "title"     : "Learning multi-level representations for hierarchical music structure analysis",
+        "authors"   : ["mb", "brm", "se", "hc"],
+        "venue"     : "International society for music information retrieval (ISMIR) conference.",
+        "date"      : "2022",
+        "pdf"       : "papers/ismir2022_multilevel.pdf",
+        "bib"       : "papers/ismir2022_multilevel.bib"
+    },
     {
         "title":    "Automatic Hierarchy Expansion for Improved Structure and Chord Evaluation",
         "authors":  ["kmk", "brm"],

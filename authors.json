@@ -1,82 +1,69 @@
 {   "authors": {
         "brm":  {"name": "McFee, B."},
-
         "zc":   {"name": "Chen, Z.",            "url": "http://www.ee.columbia.edu/~zhuo/"},
-
         "cg":   {"name": "Galleguillos, C.",    "url": "http://vision.ucsd.edu/~carolina/"},
-
         "gl":   {"name": "Lanckriet, G.R.G.",   "url": "http://cosmal.ucsd.edu/~gert/"},
-
         "dkl":  {"name": "Lim, D.K.H.",         "url": "http://acsweb.ucsd.edu/~dklim/"},
-
         "ju":   {"name": "Urbano, J.",          "url": "http://julian-urbano.info/"},
-
         "jsd":  {"name": "Downie, J.S.",        "url": "http://www.lis.illinois.edu/people/faculty/jdownie"},
-
         "ms":   {"name": "Schedl, M.",          "url": "http://www.cp.jku.at/people/schedl/"},
-        
         "tbm":  {"name": "Bertin-Mahieux. T.",  "url": "http://www.columbia.edu/~tb2332/"},
-
         "dpwe": {"name": "Ellis, D.P.W.",       "url": "http://www.ee.columbia.edu/~dpwe/"},
-
         "sjb":  {"name": "Belongie, S.",        "url": "http://vision.ucsd.edu/~sjb/"},
-
         "nk":   {"name": "Koenigstein, N.",     "url": "http://www.eng.tau.ac.il/~noamk/"},
-
         "ys":   {"name": "Shavitt, Y.",         "url": "http://www.eng.tau.ac.il/~shavitt/"},
-
         "lb":   {"name": "Barrington, L.",      "url": "http://van.ucsd.edu/"},
-
         "yv":   {"name": "Vaizman, Y.",         "url": "http://acsweb.ucsd.edu/~yvaizman/"},
-
         "cr":   {"name": "Raffel, C.",          "url": "http://colinraffel.com/"}, 
-
         "js":   {"name": "Salamon, J.",         "url": "http://www.justinsalamon.com/"},
-
         "ejh":  {"name": "Humphrey, E.",        "url": "http://ejhumphrey.com/"},
-
         "on":   {"name": "Nieto, O.",           "url": "https://files.nyu.edu/onc202/public/"},
-
         "dl":   {"name": "Liang, D.",           "url": "http://www.ee.columbia.edu/~dliang/"},
-
         "mm":   {"name": "McVicar, M.",         "url": "http://www.mattmcvicar.com"},
-
         "eb":   {"name": "Battenberg, E.",      "url": "http://www.ericbattenberg.com"},
-
         "jpb":   {"name": "Bello, J.P.",        "url": "http://steinhardt.nyu.edu/marl/people/bello"},
-        "rmb":   {"name": "Bittner, R.M.",        "url": "http://steinhardt.nyu.edu/marl/people/bittner"},
-        "pl":   {"name": "Li, P.",        "url": "http://steinhardt.nyu.edu/marl/people/li"},
-        "mf":   {"name": "Farbood, M.",        "url": "http://www.nyu.edu/projects/farbood"},
-        "sd": {"name": "Durand, S.", "url": "https://simondurand.github.io/index.html"},
-        "mfu":   {"name": "Fuentes, M.",        "url": ""},
-        "se": {"name": "Essid, S.", "url": "https://perso.telecom-paristech.fr/essid/"},
-        "hc": {"name": "Crayencour, H.", "url": ""},
-        "vat": {"name": "Trinh, V.A.", "url": "http://trinhvietanh.com/"},
-        "vl": {"name": "Lostanlen, V.", "url": "https://steinhardt.nyu.edu/marl/people/lostanlen"},
-        "mc": {"name": "Cartwright, M.", "url": "http://www.markcartwright.com/"},
-        "af": {"name": "Farnsworth, A.", "url": "http://birdcast.info/person/farnsworth/"},
-        "sk": {"name": "Kelling, S.", "url": "http://www.birds.cornell.edu/it/staff/staff_steve.html"},
-        "mim": {"name": "Mandel, M.", "url": "http://mr-pc.org/"},
-        "jwk": {"name": "Kim, J.W.", "url": "https://jongwook.kim/"},
-        "cjt": {"name": "Tralie, C.J.", "url": "https://www.ctralie.com/"},
-        "ach": {"name": "Cohen-Hadria, A.", "url": "https://alicecohenh.github.io/"},
-        "kmk": {"name": "Kinnaird, K.", "url": "http://katherinemkinnaird.net/"},
-        "ss": {"name": "Sridar, S."},
-        "dh": {"name": "Huppenkothen, D.", "url": "https://huppenkothen.org/"},
+        "rmb":   {"name": "Bittner, R.M.",      "url": "http://steinhardt.nyu.edu/marl/people/bittner"},
+        "pl":   {"name": "Li, P.",              "url": "http://steinhardt.nyu.edu/marl/people/li"},
+        "mf":   {"name": "Farbood, M.",         "url": "http://www.nyu.edu/projects/farbood"},
+        "sd": {"name": "Durand, S.",            "url": "https://simondurand.github.io/index.html"},
+        "mfu":   {"name": "Fuentes, M.",        "url": "https://magdalenafuentes.github.io/"},
+        "se": {"name": "Essid, S.",             "url": "https://perso.telecom-paristech.fr/essid/"},
+        "hc": {"name": "Crayencour, H.",        "url": ""},
+        "vat": {"name": "Trinh, V.A.",          "url": "http://trinhvietanh.com/"},
+        "vl": {"name": "Lostanlen, V.",         "url": "https://www.lostanlen.com/"},
+        "mc": {"name": "Cartwright, M.",        "url": "http://www.markcartwright.com/"},
+        "af": {"name": "Farnsworth, A.",        "url": "http://birdcast.info/person/farnsworth/"},
+        "sk": {"name": "Kelling, S.",           "url": "http://www.birds.cornell.edu/it/staff/staff_steve.html"},
+        "mim": {"name": "Mandel, M.",           "url": "http://mr-pc.org/"},
+        "jwk": {"name": "Kim, J.W.",            "url": "https://jongwook.kim/"},
+        "cjt": {"name": "Tralie, C.J.",         "url": "https://www.ctralie.com/"},
+        "ach": {"name": "Cohen-Hadria, A.",     "url": "https://alicecohenh.github.io/"},
+        "kmk": {"name": "Kinnaird, K.",         "url": "http://katherinemkinnaird.net/"},
+        "ss": {"name": "Sridar, S.",            "url": "https://www.sripathisridhar.com/"},
+        "dh": {"name": "Huppenkothen, D.",      "url": "https://huppenkothen.org/"},
         "ln": {"name": "Norén, L."},
-        "hc2": {"name": "Cuesta, H.", "url": "https://helenacuesta.wordpress.com/"},
-        "eg": {"name": "Gómez, E.",  "url": "https://emiliagomez.com/"},
-        "gjm": {"name": "Mysore, G.J.",  "url": "https://ccrma.stanford.edu/~gautham/Site/Gautham_J._Mysore.html"},
-        "ciw": {"name": "Wang, C.",  "url": "https://wangsix.github.io/"},
-        "jbls": {"name": "Smith, J.B.L.",  "url": "https://jblsmith.github.io/"},
-        "js2": {"name": "Schlüter, J.",  "url": "https://www.jku.at/en/institute-of-computational-perception/about-us/people/jan-schlueter/"},
-        "tg": {"name": "Grill, T.",  "url": "https://grrrr.org/"},
-        "mmul": {"name": "Müller, M.", "url": "https://www.audiolabs-erlangen.de/fau/professor/mueller"},
+        "hc2": {"name": "Cuesta, H.",           "url": "https://helenacuesta.wordpress.com/"},
+        "eg": {"name": "Gómez, E.",             "url": "https://emiliagomez.com/"},
+        "gjm": {"name": "Mysore, G.J.",         "url": "https://ccrma.stanford.edu/~gautham/Site/Gautham_J._Mysore.html"},
+        "ciw": {"name": "Wang, C.",             "url": "https://wangsix.github.io/"},
+        "jbls": {"name": "Smith, J.B.L.",       "url": "https://jblsmith.github.io/"},
+        "js2": {"name": "Schlüter, J.",         "url": "https://www.jku.at/en/institute-of-computational-perception/about-us/people/jan-schlueter/"},
+        "tg": {"name": "Grill, T.",             "url": "https://grrrr.org/"},
+        "mmul": {"name": "Müller, M.",          "url": "https://www.audiolabs-erlangen.de/fau/professor/mueller"},
         "ci": {"name": "Ick, C."},
         "hhw": {"name": "Wu, H.H."},
         "cck": {"name": "Kao, C.C."},
         "qt": {"name": "Tang, Q."},
         "msun": {"name": "Sun, M."},
-        "cw": {"name": "Wang, C."}
+        "cw": {"name": "Wang, C."},
+        "mb": {"name": "Buisson, M."},
+        "jg": {"name": "Guo, J."},
+        "kc": {"name": "Choi, K.",               "url": "https://keunwoochoi.github.io/"},
+        "ji": {"name": "Im, J.",                "url": "https://jakeoneijk.github.io/"},
+        "lmh": {"name": "Heller, L.M.",         "url": "https://www.auditorylab.org/home"},
+        "ki": {"name": "Imoto, K.",             "url": "https://www.ksuke.net/"},
+        "yo": {"name": "Okamoto, Y."},
+        "ml": {"name": "Lagrange, M.",          "url": "https://mathieulagrange.github.io/"},
+        "st": {"name": "Takamichi, S.",         "url": "https://sites.google.com/site/shinnosuketakamichi/home"}
     }
 }
