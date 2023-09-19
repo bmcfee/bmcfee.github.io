@@ -76,6 +76,15 @@
                 </div>
             </div>
 
+            <div class="panel panel-default" id="books">
+                <div class="panel-heading"><h4>Books</h4></div>
+                <div class="panel-body">
+                    <ul>
+                        <li>Digital Signals Theory (2023) [<a href="https://www.routledge.com/Digital-Signals-Theory/McFee/p/book/9781032200507#">print</a> | <a href="dstbook-site">online</a>]</li>
+                    </ul>
+                </div>
+            </div>
+
             <div class="panel panel-default" id="pubs">
                 <div class="panel-heading"><h4>Publications</h4></div>
             
