@@ -1,4 +1,19 @@
 {   "pubs": [
+    {   "title"     : "A Repetition-based Triplet Mining Approach for Music Segmentation",
+        "authors"   : ["mb", "brm", "se", "hc"],
+        "venue"     : "International society for music information retrieval (ISMIR) conference.",
+        "date"      : "2023",
+        "pdf"       : "papers/ismir2023_repetition.pdf",
+        "bib"       : "papers/ismir2023_repetition.bib"
+    },
+    {   "title"     : "Transfer Learning and Bias Correction with Pre-trained Audio Embeddings",
+        "authors"   : ["cw", "gr", "brm"],
+        "venue"     : "International society for music information retrieval (ISMIR) conference.",
+        "date"      : "2023",
+        "code"      : "https://github.com/changhongw/audio-embedding-bias",
+        "pdf"       : "papers/ismir2023_transfer.pdf",
+        "bib"       : "papers/ismir2023_transfer.bib"
+    },
     {   "title"     : "Leveraging Geometrical Acoustic Simulations of Spatial Room Impulse Responses for Improved Sound Event Detection and Localization",
         "authors"   : ["ci", "brm"],
         "venue"     : "Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)",

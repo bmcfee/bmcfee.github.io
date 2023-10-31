@@ -64,6 +64,8 @@
         "ki": {"name": "Imoto, K.",             "url": "https://www.ksuke.net/"},
         "yo": {"name": "Okamoto, Y."},
         "ml": {"name": "Lagrange, M.",          "url": "https://mathieulagrange.github.io/"},
-        "st": {"name": "Takamichi, S.",         "url": "https://sites.google.com/site/shinnosuketakamichi/home"}
+        "st": {"name": "Takamichi, S.",         "url": "https://sites.google.com/site/shinnosuketakamichi/home"},
+        "gr": {"name": "Richard, G.", "url": "https://www.telecom-paris.fr/gael-richard"},
+        "cw2": {"name": "Wang, C.", "url": "https://changhongw.github.io/"}
     }
 }
