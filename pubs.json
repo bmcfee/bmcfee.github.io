@@ -7,7 +7,7 @@
         "bib"       : "papers/ismir2023_repetition.bib"
     },
     {   "title"     : "Transfer Learning and Bias Correction with Pre-trained Audio Embeddings",
-        "authors"   : ["cw", "gr", "brm"],
+        "authors"   : ["cw2", "gr", "brm"],
         "venue"     : "International society for music information retrieval (ISMIR) conference.",
         "date"      : "2023",
         "code"      : "https://github.com/changhongw/audio-embedding-bias",
