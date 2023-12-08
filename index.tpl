@@ -70,7 +70,7 @@
                 <div class="panel-body">
                     <ul>
                         <li><a href="https://tomxi.weebly.com/">Qingyang (Tom) Xi</a> (Music Technology)</li>
-                        <li>Chris Ick (Data Science)</li>
+                        <li><a href="https://chrisick.github.io/">Chris Ick</a> (Data Science)</li>
                         <li><a href="https://elenatheodora.com/">Elena Georgieva</a> (Music Technology)</li>
                     </ul>
                 </div>
