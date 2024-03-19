@@ -1,4 +1,11 @@
 {   "pubs": [
+    {   "title"     : "Self-Supervised Learning of Multi-level Audio Representations for Music Segmentation",
+        "authors"   : ["mb", "brm", "se", "hc"],
+        "venue"     : "IEEE Transactions on Audio, Speech and Language Processing (to appear)",
+        "date"      : "2024",
+        "pdf"       : "https://hal.science/hal-04485065/document",
+        "bib"       : "papers/taslp2024_selfsup.bib"
+    },
     {   "title"     : "A Repetition-based Triplet Mining Approach for Music Segmentation",
         "authors"   : ["mb", "brm", "se", "hc"],
         "venue"     : "International society for music information retrieval (ISMIR) conference.",
