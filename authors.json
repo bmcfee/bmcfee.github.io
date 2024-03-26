@@ -50,7 +50,7 @@
         "js2": {"name": "Schlüter, J.",         "url": "https://www.jku.at/en/institute-of-computational-perception/about-us/people/jan-schlueter/"},
         "tg": {"name": "Grill, T.",             "url": "https://grrrr.org/"},
         "mmul": {"name": "Müller, M.",          "url": "https://www.audiolabs-erlangen.de/fau/professor/mueller"},
-        "ci": {"name": "Ick, C."},
+        "ci": {"name": "Ick, C.", "url": "https://chrisick.github.io/"},
         "hhw": {"name": "Wu, H.H."},
         "cck": {"name": "Kao, C.C."},
         "qt": {"name": "Tang, Q."},
