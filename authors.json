@@ -66,6 +66,9 @@
         "ml": {"name": "Lagrange, M.",          "url": "https://mathieulagrange.github.io/"},
         "st": {"name": "Takamichi, S.",         "url": "https://sites.google.com/site/shinnosuketakamichi/home"},
         "gr": {"name": "Richard, G.", "url": "https://www.telecom-paris.fr/gael-richard"},
-        "cw2": {"name": "Wang, C.", "url": "https://changhongw.github.io/"}
+        "cw2": {"name": "Wang, C.", "url": "https://changhongw.github.io/"},
+        "ir": {"name": "Roman, I.R.", "url": "https://iranroman.github.io/"},
+        "sd": {"name": "Ding, S.", "url": "https://sivan.fun/"},
+        "asr": {"name": "Roman, A.S.", "url": "https://adriansroman.github.io/adriansroman/"}
     }
 }

@@ -1,4 +1,12 @@
 {   "pubs": [
+    {
+        "title":    "Spatial Scaper: A Library to Simulate and Augment Soundscapes for Sound Event Localization and Detection in Realistic Rooms",
+        "authors":  ["ir", "ci", "sd", "asr", "brm", "jpb"],
+        "date":     "2024",
+        "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
+        "bib":      "papers/icassp2024roman.bib",
+        "pdf":      "https://arxiv.org/abs/2401.12238"
+    },
     {   "title"     : "Self-Supervised Learning of Multi-level Audio Representations for Music Segmentation",
         "authors"   : ["mb", "brm", "se", "hc"],
         "venue"     : "IEEE Transactions on Audio, Speech and Language Processing (to appear)",
