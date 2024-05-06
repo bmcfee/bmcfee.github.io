@@ -1,7 +1,7 @@
 {   "pubs": [
     {
         "title":    "Spatial Scaper: A Library to Simulate and Augment Soundscapes for Sound Event Localization and Detection in Realistic Rooms",
-        "authors":  ["ir", "ci", "sd", "asr", "brm", "jpb"],
+        "authors":  ["ir", "ci", "sd2", "asr", "brm", "jpb"],
         "date":     "2024",
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
         "bib":      "papers/icassp2024roman.bib",
