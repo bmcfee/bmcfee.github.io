@@ -69,6 +69,8 @@
         "cw2": {"name": "Wang, C.", "url": "https://changhongw.github.io/"},
         "ir": {"name": "Roman, I.R.", "url": "https://iranroman.github.io/"},
         "sd2": {"name": "Ding, S.", "url": "https://sivan.fun/"},
-        "asr": {"name": "Roman, A.S.", "url": "https://adriansroman.github.io/adriansroman/"}
+        "asr": {"name": "Roman, A.S.", "url": "https://adriansroman.github.io/adriansroman/"},
+        "etg": {"name": "Georgieva, E.", "url": "http://elenatheodora.com/"},
+        "pr": {"name": "Ripollés, P.", "url": "https://www.ripolleslab.com/"}
     }
 }

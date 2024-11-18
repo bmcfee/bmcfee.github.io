@@ -73,6 +73,10 @@
                         <li><a href="https://chrisick.github.io/">Chris Ick</a> (Data Science)</li>
                         <li><a href="https://elenatheodora.com/">Elena Georgieva</a> (Music Technology)</li>
                     </ul>
+                    Alumni:
+                    <ul>
+                        <li><a href="https://morgan76.github.io/">Dr. Morgan Buisson</a>, 2024 (Télécom-Paris)</li>
+                    </ul>
                 </div>
             </div>
 

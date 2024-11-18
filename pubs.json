@@ -1,4 +1,19 @@
 {   "pubs": [
+    {   "title"     : "Using Pairwise Link Prediction and Graph Attention Networks for Music Structure Analysis",
+        "authors"   : ["mb", "brm", "se"],
+        "venue"     : "International society for music information retrieval (ISMIR) conference.",
+        "date"      : "2024",
+        "web"       : "https://ismir2024program.ismir.net/poster_405.html#paper",
+        "pdf"       : "https://hal.science/hal-04665063v2",
+        "bib"       : "papers/ismir2024buisson.bib"
+    },
+    {   "title"     : "The Changing Sound of Music: An Exploratory Corpus Study of Vocal Trends Over Time",
+        "authors"   : ["etg", "pr", "brm"],
+        "venue"     : "International society for music information retrieval (ISMIR) conference.",
+        "date"      : "2024",
+        "web"       : "https://ismir2024program.ismir.net/poster_57.html#paper",
+        "bib"       : "papers/ismir2024georgieva.bib"
+    },
     {
         "title":    "Spatial Scaper: A Library to Simulate and Augment Soundscapes for Sound Event Localization and Detection in Realistic Rooms",
         "authors":  ["ir", "ci", "sd2", "asr", "brm", "jpb"],
@@ -9,7 +24,7 @@
     },
     {   "title"     : "Self-Supervised Learning of Multi-level Audio Representations for Music Segmentation",
         "authors"   : ["mb", "brm", "se", "hc"],
-        "venue"     : "IEEE Transactions on Audio, Speech and Language Processing (to appear)",
+        "venue"     : "IEEE Transactions on Audio, Speech and Language Processing",
         "date"      : "2024",
         "pdf"       : "https://hal.science/hal-04485065/document",
         "bib"       : "papers/taslp2024_selfsup.bib"
