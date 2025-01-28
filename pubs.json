@@ -11,6 +11,7 @@
         "authors"   : ["ht", "sl", "brm", "cs"],
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP). To appear.",
         "date"      : "2025",
+        "code"      : "https://github.com/tiianhk/label-metric",
         "pdf"       : "https://arxiv.org/pdf/2501.12796",
         "bib"       : "papers/icassp2025_hybrid.bib"
     },
