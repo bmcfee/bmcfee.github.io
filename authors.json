@@ -56,7 +56,7 @@
         "qt": {"name": "Tang, Q."},
         "msun": {"name": "Sun, M."},
         "cw": {"name": "Wang, C."},
-        "mb": {"name": "Buisson, M."},
+        "mb": {"name": "Buisson, M.", "url": "https://morgan76.github.io/"},
         "jg": {"name": "Guo, J."},
         "kc": {"name": "Choi, K.",               "url": "https://keunwoochoi.github.io/"},
         "ji": {"name": "Im, J.",                "url": "https://jakeoneijk.github.io/"},
@@ -71,6 +71,10 @@
         "sd2": {"name": "Ding, S.", "url": "https://sivan.fun/"},
         "asr": {"name": "Roman, A.S.", "url": "https://adriansroman.github.io/adriansroman/"},
         "etg": {"name": "Georgieva, E.", "url": "http://elenatheodora.com/"},
-        "pr": {"name": "Ripollés, P.", "url": "https://www.ripolleslab.com/"}
+        "pr": {"name": "Ripollés, P.", "url": "https://www.ripolleslab.com/"},
+        "vd": {"name": "Deng, V.", "url": "https://victor-deng.fr/"},
+        "ht": {"name": "Tian, H.", "url": "https://www.qmul.ac.uk/eecs/people/profiles/tianhaokun.html"},
+        "sl": {"name": "Lattner, S.", "url": "https://csl.sony.fr/member/stefan-lattner-phd/"},
+        "cs": {"name": "Saitis, C.", "url": "https://www.qmul.ac.uk/eecs/people/profiles/saitischaralampos.html"}
     }
 }
