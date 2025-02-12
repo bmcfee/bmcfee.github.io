@@ -19,6 +19,7 @@
         "authors"   : ["mb", "brm", "se"],
         "venue"     : "International society for music information retrieval (ISMIR) conference.",
         "date"      : "2024",
+        "code"      : "https://github.com/morgan76/LinkSeg",
         "web"       : "https://ismir2024program.ismir.net/poster_405.html#paper",
         "pdf"       : "https://hal.science/hal-04665063v2",
         "bib"       : "papers/ismir2024buisson.bib"
