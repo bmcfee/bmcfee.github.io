@@ -135,7 +135,7 @@
         "date"      : "2020",
         "bib"       : "papers/nieto2020structure.bib",
         "web"        : "https://transactions.ismir.net/articles/10.5334/tismir.54/",
-        "pdf"       : "https://transactions.ismir.net/articles/10.5334/tismir.54/galley/73/download/"
+        "pdf"       : "https://transactions.ismir.net/articles/54/files/submission/proof/54-1-1764-1-10-20201211.pdf"
     },
     {   "title"     : "Multiple F0 estimation in vocal ensembles using convolutional neural networks",
         "authors"   : ["hc2", "brm", "eg"],
