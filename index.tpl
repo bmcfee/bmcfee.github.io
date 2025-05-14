@@ -48,7 +48,7 @@
                     </p>
                     <p>
                         <a href="http://steinhardt.nyu.edu/music/">Music and Performing Arts Professions</a>/<a
-                        href="http://https://steinhardt.nyu.edu/marl">Music and Audio Research Lab (MARL)</a> and <a href="http://cds.nyu.edu">Center for Data Science</a>
+                        href="https://steinhardt.nyu.edu/marl">Music and Audio Research Lab (MARL)</a> and <a href="http://cds.nyu.edu">Center for Data Science</a>
                     </p>
                 
                 </div>
@@ -70,11 +70,11 @@
                 <div class="panel-body">
                     <ul>
                         <li><a href="https://tomxi.weebly.com/">Qingyang (Tom) Xi</a> (Music Technology)</li>
-                        <li><a href="https://chrisick.github.io/">Chris Ick</a> (Data Science)</li>
                         <li><a href="https://elenatheodora.com/">Elena Georgieva</a> (Music Technology)</li>
                     </ul>
                     Alumni:
                     <ul>
+                        <li><a href="https://chrisick.github.io/">Dr. Chris Ick</a>, 2025 (Data Science)</li>
                         <li><a href="https://morgan76.github.io/">Dr. Morgan Buisson</a>, 2024 (Télécom-Paris)</li>
                     </ul>
                 </div>
