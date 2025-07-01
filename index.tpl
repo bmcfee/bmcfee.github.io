@@ -70,10 +70,10 @@
                 <div class="panel-body">
                     <ul>
                         <li><a href="https://tomxi.weebly.com/">Qingyang (Tom) Xi</a> (Music Technology)</li>
-                        <li><a href="https://elenatheodora.com/">Elena Georgieva</a> (Music Technology)</li>
                     </ul>
                     Alumni:
                     <ul>
+                        <li><a href="https://elenatheodora.com/">Dr. Elena Georgieva</a>, 2025 (Music Technology)</li>
                         <li><a href="https://chrisick.github.io/">Dr. Chris Ick</a>, 2025 (Data Science)</li>
                         <li><a href="https://morgan76.github.io/">Dr. Morgan Buisson</a>, 2024 (Télécom-Paris)</li>
                     </ul>
