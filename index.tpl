@@ -260,7 +260,7 @@ document.addEventListener('DOMContentLoaded', () => {
         <!-- Software & Data panel -->
         <section id="resources" class="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-6 mb-8">
           <header class="mb-4"><h4 class="text-xl font-semibold">Software</h4></header>
-          <dl class="grid grid-cols-2 gap-x-8 gap-y-4">
+          <dl class="grid grid-cols-2 gap-x-8 gap-y-4 mt-6">
             {% for item in software %}
             <dt class="font-semibold odd:bg-gray-50 even:bg-white">
               <a href="{{ item.url }}" class="text-blue-600 hover:underline">{{ item.name }}</a>
