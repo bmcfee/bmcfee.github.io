@@ -1,15 +1,19 @@
 {   "classes": [
-        {"date":    "Fall 2020",
+        {"date":    "F23, F24",
+         "desc":    "(NYU) DS-GA 1006: Capstone Project in Data Science"
+        },
+        {"date":    "F20",
          "desc":    "(NYU) DS-GA 3001: Search and Discovery"
         },
-        {"date":    "Spring 2019, 2020, 2021",
+        {"date":    "S19, S20, S21, S22, S23",
          "desc":    "(NYU) DS-GA 1004: Big Data"
         },
-        {"date":    "Fall 2018, 2019, 2020",
+        {"date":    "F18, F19, F20, S21, F21, F22, F23, F24",
          "desc":    "(NYU) MPATE-GE 2599: Fundamentals of Digital Signals Theory I"
         },
-        {"date":    "Spring 2014",
+        {"date":    "S14",
          "url":     "http://www.ee.columbia.edu/~dpwe/e6891/",
-         "desc":    "(Columbia) EECS E6891: Reproducing computational results"}
+         "desc":    "(Columbia) EECS E6891: Reproducing computational results"
+        }
     ]
 }
