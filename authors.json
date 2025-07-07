@@ -75,6 +75,7 @@
         "vd": {"name": "Deng, V.", "url": "https://victor-deng.fr/"},
         "ht": {"name": "Tian, H.", "url": "https://www.qmul.ac.uk/eecs/people/profiles/tianhaokun.html"},
         "sl": {"name": "Lattner, S.", "url": "https://csl.sony.fr/member/stefan-lattner-phd/"},
-        "cs": {"name": "Saitis, C.", "url": "https://www.qmul.ac.uk/eecs/people/profiles/saitischaralampos.html"}
+        "cs": {"name": "Saitis, C.", "url": "https://www.qmul.ac.uk/eecs/people/profiles/saitischaralampos.html"},
+        "qx": {"name": "Xi, Q.", "url": "https://tomxi.weebly.com/"}
     }
 }
