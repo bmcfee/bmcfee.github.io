@@ -13,6 +13,12 @@
         "pdf"       : "papers/ismir2025_regularity.pdf",
         "bib"       : "papers/ismir2025_regularity.bib"
     },
+    {
+        "title"     : "A listener-evaluated dataset of amateur karaoke singing and audiobook narration",
+        "authors"   : ["etg", "pr", "brm"],
+        "venue"     : "Audio Engineering Society (AES) International Conference on Artificial Intelligence and Machine Learning",
+        "date"      : "2025"
+    },
     {   "title"     : "Investigating the Sensitivity of Pre-trained Audio Embeddings to Common Effects",
         "authors"   : ["vd", "cw2", "gr", "brm"],
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
