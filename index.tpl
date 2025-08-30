@@ -65,7 +65,7 @@
           </header>
           <div class="text-gray-700 space-y-2">
             <p>
-              Assistant Professor of Music Technology and Data Science at
+              Associate Professor of Music Technology and Data Science at
               <a href="http://www.nyu.edu/" class="text-blue-600 hover:underline">New York University</a>
             </p>
             <p>
