@@ -197,7 +197,7 @@
 document.addEventListener('DOMContentLoaded', () => {
   const container = document.querySelector('div#pubs');
   const items = Array.from(container.querySelectorAll('.pub-item'));
-  const perPage = 20;
+  const perPage = 10;
   let currentPage = 1;
   const totalPages = Math.ceil(items.length / perPage);
 
