@@ -346,6 +346,7 @@
         "authors"   : [   "brm", "ejh", "jpb"],
         "venue"     : "16th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2015",
+        "thumbnail" : "papers/ismir2015_augmentation.png",
         "bib"       : "papers/ismir2015_augmentation.bib",
         "pdf"       : "papers/ismir2015_augmentation.pdf",
         "slides"    : "slides/ismir2015_muda.pdf",
@@ -355,6 +356,7 @@
         "authors"   : [   "brm", "on", "jpb" ],
         "venue"     : "16th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2015",
+        "thumbnail" : "papers/ismir2015_hierarchical_eval.png",
         "poster"    : "posters/ismir2015_hierarchical_eval_poster.pdf",
         "bib"       : "papers/ismir2015_hierarchical_eval.bib",
         "pdf"       : "papers/ismir2015_hierarchical_eval.pdf"
@@ -363,6 +365,7 @@
         "authors"   : [   "brm", "cr", "dl", "dpwe", "mm", "eb", "on" ],
         "venue"     : "14th annual Scientific Computing with Python conference (SciPy)",
         "date"      : "2015",
+        "thumbnail" : "papers/scipy2015_librosa.png",
         "bib"       : "papers/scipy2015_librosa.bib",
         "pdf"       : "papers/scipy2015_librosa.pdf",
         "code"      : "https://github.com/bmcfee/librosa",
@@ -373,6 +376,7 @@
         "authors"   : [   "brm", "dpwe" ],
         "venue"     : "15th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2014",
+        "thumbnail" : "papers/ismir2014_spectral.png",
         "bib"       : "papers/ismir2014_spectral.bib",
         "pdf"       : "papers/ismir2014_spectral.pdf",
         "code"      : "https://github.com/bmcfee/laplacian_segmentation",
@@ -395,6 +399,7 @@
         "authors"   : [   "yv", "brm", "gl" ],
         "venue"     : "IEEE Transactions on Audio, Speech and Language Processing",
         "date"      : "2014",
+        "thumbnail" : "papers/taslp2014_codebook.png",
         "pdf"       : "papers/taslp2014_codebook.pdf",
         "bib"       : "papers/taslp2014_codebook.bib"
     },
@@ -403,6 +408,7 @@
         "authors"   : [   "zc", "brm", "dpwe" ],
         "venue"     : "Interspeech",
         "date"      : "2014",
+        "thumbnail" : "papers/is2014_conv.png",
         "bib"       : "papers/is2014_conv.bib",
         "pdf"       : "papers/is2014_conv.pdf"
     },
@@ -412,6 +418,7 @@
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP)",
         "date"      : "2014",
         "code"      : "http://github.com/bmcfee/olda",
+        "thumbnail" : "papers/icassp2014_segments.png",
         "bib"       : "papers/icassp2014_segments.bib",
         "pdf"       : "papers/icassp2014_segments.pdf"
     },
@@ -420,6 +427,7 @@
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP)",
         "date"      : "2014",
         "code"      : "http://github.com/bmcfee/beat_onset",
+        "thumbnail" : "papers/icassp2014_beats.png",
         "bib"       : "papers/icassp2014_beats.bib",
         "pdf"       : "papers/icassp2014_beats.pdf"
     },
@@ -427,6 +435,7 @@
         "authors"   : [   "cg", "brm", "gl" ],
         "venue"     : "International Journal of Computer Vision",
         "date"      : "2013",
+        "thumbnail" : "papers/ijcv2013_discovery.png",
         "bib"       : "papers/ijcv_discovery.bib",
         "pdf"       : "http://link.springer.com/article/10.1007/s11263-013-0679-z"
     },
@@ -435,6 +444,7 @@
         "venue"     : "30th International Conference on Machine Learning (ICML)",
         "date"      : "2013",
         "code"      : "http://github.com/bmcfee/mlr",
+        "thumbnail" : "papers/icml2013_rsml.png",
         "pdf"       : "papers/icml2013_rsml.pdf",
         "bib"       : "papers/icml2013_rsml.bib"
     },
@@ -443,6 +453,7 @@
         "authors"   : [ "brm", "gl" ],
         "venue"     : "13th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2012",
+        "thumbnail" : "papers/ismir2012_dialect.png",
         "pdf"       : "papers/ismir2012_dialect.pdf",
         "bib"       : "papers/ismir2012_dialect.bib",
         "code"      : "https://github.com/bmcfee/hypergraph_playlist",
@@ -455,6 +466,7 @@
         "authors"   : [ "ju", "jsd", "brm", "ms" ],
         "venue"     : "13th International Society for Music Information Retrieval (ISMIR) conference",
         "data"      : "http://julian-urbano.info/publications/041-how-significant-statistically-significant-case-audio-music-similarity-retrieval",
+        "thumbnail" : "papers/ismir2012_significant.png",
         "pdf"       : "papers/ismir2012_significant.pdf",
         "bib"       : "papers/ismir2012_significant.bib",
         "date"      : "2012",
@@ -466,6 +478,7 @@
         "date"      : "2012",
         "bib"       : "papers/msdchallenge.bib",
         "pdf"       : "papers/msdchallenge.pdf",
+        "thumbnail" : "papers/msdchallenge.png",
         "data"      : "http://www.kaggle.com/c/msdchallenge/",
         "tags"      : ["music", "recommender systems"]},
 
@@ -475,6 +488,7 @@
         "date"      : "2012",
         "bib"       : "papers/simopt.bib",
         "pdf"       : "papers/simopt.pdf",
+        "thumbnail" : "papers/simopt.png",
         "tags"      : ["music", "collaborative filtering"]},
 
     {   "title"     : "The natural language of playlists",
@@ -483,6 +497,7 @@
         "date"      : "2011",
         "bib"       : "papers/ismir2011_nlp.bib",
         "pdf"       : "papers/ismir2011_nlp.pdf",
+        "thumbnail" : "papers/ismir2011_nlp.png",
         "poster"    : "posters/poster_ismir2011_nlp.pdf",
         "data"      : "data/playlists.html",
         "notes"     : "Best poster presentation award",
@@ -495,6 +510,7 @@
         "code"      : "https://github.com/bmcfee/spatialtree",
         "bib"       : "papers/ismir2011_sptree.bib",
         "pdf"       : "papers/ismir2011_sptree.pdf",
+        "thumbnail" : "papers/ismir2011_sptree.png",
         "tags"      : ["music", "data structures"]},
 
     {   "title"     : "From region similarity to category discovery",
@@ -503,6 +519,7 @@
         "date"      : "June, 2011",
         "pdf"       : "papers/galleguillos_cvpr11.pdf",
         "bib"       : "papers/galleguillos_cvpr11.bib",
+        "thumbnail" : "papers/galleguillos_cvpr11.png",
         "tags"      : ["computer vision", "multiple kernel learning"]},
     
     {   "title"     : "Learning multi-modal similarity",
@@ -511,6 +528,7 @@
         "date"      : "February, 2011",
         "pdf"       : "papers/lmms.pdf",
         "bib"       : "papers/lmms.bib",
+        "thumbnail" : "papers/lmms.png",
         "tags"      : [ "metric learning", "multiple kernel learning", "music"]},
     
     {   "title"     : "Contextual object localization with multiple kernel nearest neighbor",
@@ -519,6 +537,7 @@
         "date"      : "February, 2011",
         "pdf"       : "papers/contextmklmnn.pdf",
         "bib"       : "papers/contextmklmnn.bib",
+        "thumbnail" : "papers/contextmklmnn.png",
         "tags"      : ["computer vision", "multiple kernel learning", "context"]},
 
     {   "title"     : "Learning similarity from collaborative filters",
@@ -527,6 +546,7 @@
         "date"      : "2010",
         "pdf"       : "papers/learncf.pdf",
         "bib"       : "papers/learncf.bib",
+        "thumbnail" : "papers/learncf.png",
         "tags"      : ["music", "collaborative filters"]},
 
     {   "title"     : "Collaborative filtering based on P2P networks",
@@ -535,6 +555,7 @@
         "date"      : "2010",
         "pdf"       : "papers/p2pcf.pdf",
         "bib"       : "papers/p2pcf.bib",
+        "thumbnail" : "papers/p2pcf.png",
         "tags"      : ["music", "collaborative filters", "P2P"]},
 
     {   "title"     : "Metric learning to rank",
@@ -543,6 +564,7 @@
         "date"      : "2010",
         "pdf"       : "papers/mlr.pdf",
         "bib"       : "papers/mlr.bib",
+        "thumbnail" : "papers/mlr.png",
         "code"      : "http://github.com/bmcfee/mlr",
         "data"      : "data/eharmony.html",
         "poster"    : "posters/mlr.pdf",
@@ -554,6 +576,7 @@
         "date"      : "2010",
         "pdf"       : "papers/mklmnn.pdf",
         "bib"       : "papers/mklmnn.bib",
+        "thumbnail" : "papers/mklmnn.png",
         "tags"      : ["computer vision", "multiple kernel learning", "context"]},
 
     {   "title"     : "Heterogeneous embedding for subjective artist similarity",
@@ -562,6 +585,7 @@
         "date"      : "2009",
         "pdf"       : "papers/hesas.pdf",
         "bib"       : "papers/hesas.bib",
+        "thumbnail" : "papers/hesas.png",
         "data"      : "http://mkl.ucsd.edu/dataset/aset400-heterogeneous-embedding",
         "poster"    : "posters/hesas.pdf",
         "tags"      : ["music", "similarity", "multiple kernel learning"],
@@ -571,6 +595,7 @@
         "authors"   :   [ "brm", "gl" ],
         "venue"     : "Twenty-sixth International Conference on Machine Learning (ICML)",
         "date"      : "2009",
+        "thumbnail" : "papers/mkpoe.png",
         "pdf"       : "papers/mkpoe.pdf",
         "bib"       : "papers/mkpoe.bib",
         "poster"    : "posters/mkpoe.pdf",
