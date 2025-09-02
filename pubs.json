@@ -174,6 +174,7 @@
         "venue"     : "Transactions of the International Society for Music Information Retrieval",
         "date"      : "2020",
         "bib"       : "papers/nieto2020structure.bib",
+        "thumbnail" : "papers/tismir2020structure.png",
         "web"        : "https://transactions.ismir.net/articles/10.5334/tismir.54/",
         "pdf"       : "https://transactions.ismir.net/articles/54/files/submission/proof/54-1-1764-1-10-20201211.pdf"
     },
@@ -182,12 +183,14 @@
         "venue"     : "International society for music information retrieval (ISMIR) conference.",
         "date"      : "2020",
         "bib"       : "papers/cuesta2021multiple.bib",
+        "thumbnail" : "papers/ismir2020cuesta.png",
         "pdf"       : "https://arxiv.org/pdf/2009.04172.pdf"
     },
     {   "title"     : "Entrofy your cohort: a transparent method for diverse cohort selection",
         "authors"   : ["dh", "brm", "ln"],
         "venue"     : "PLOS ONE",
         "date"      : "2020",
+        "thumbnail" : "papers/pone2020entrofy.png",
         "pdf"       : "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0231939",
         "bib"       : "papers/entrofy2020.bib"
     },
@@ -196,12 +199,14 @@
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
         "date"      : "2020",
         "pdf"       : "https://arxiv.org/abs/1910.10246",
+        "thumbnail" : "papers/icassp2020helix.png",
         "bib"       : "papers/icassp2020helix.bib"
     },
     {   "title"     : "Improving structure evaluation through automatic hierarchy expansion",
         "authors"   : ["brm", "kmk"],
         "venue"     : "International society for music information retrieval (ISMIR) conference.",
         "date"      : "2019",
+        "thumbnail" : "papers/ismir2019ahe.png", 
         "pdf"       : "papers/ismir2019expansion.pdf",
         "bib"       : "papers/ismir2019expansion.bib"
     },
@@ -210,6 +215,7 @@
         "venue"     : "International workshop on machine learning for signal processing (MLSP).",
         "date"      : "2019",
         "pdf"       : "papers/mlsp2019anonymization.pdf",
+        "thumbnail" : "papers/mlsp2019anonymization.png",
         "bib"       : "papers/mlsp2019anonymization.bib"
     },
     {   "title"     : "Enhanced hierarchical music structure annotations via feature level similarity fusion",
@@ -217,12 +223,14 @@
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
         "date"      : "2019",
         "pdf"       : "https://arxiv.org/abs/1902.01023",
+        "thumbnail" : "papers/icassp2019snf.png",
         "bib"       : "papers/icassp2019_snf.bib"
     },
     {   "title"     : "A music structure informed downbeat tracking system using skip-chain conditional random fields and deep learning",
         "authors"   : ["mfu", "brm", "hc", "se", "jpb"],
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
         "date"      : "2019",
+        "thumbnail" : "papers/icassp2019_beat.png",
         "pdf"       : "papers/icassp2019_beat.pdf",
         "bib"       : "papers/icassp2019_beat.bib"
     },
@@ -231,6 +239,7 @@
         "venue"     : "IEEE Signal Processing Magazine",
         "date"      : "2019",
         "pdf"       : "https://ieeexplore.ieee.org/abstract/document/8588406/",
+        "thumbnail" : "papers/spm-oss.png",
         "bib"       : "papers/spm-oss.bib"
     },
     {   "title"     : "Per-channel energy normalization: why and how",
@@ -238,6 +247,7 @@
         "venue"     : "IEEE Signal Processing Letters",
         "date"      : "2019",
         "web"       : "https://ieeexplore.ieee.org/abstract/document/8514023/",
+        "thumbnail" : "papers/spl2019_pcen.png",
         "pdf"       : "papers/spl2019_pcen.pdf",
         "bib"       : "papers/spl2019_pcen.bib"
     },
@@ -246,6 +256,7 @@
         "venue"     : "IEEE Transactions on Audio, Speech and Language Processing",
         "date"      : "2018",
         "code"      : "https://github.com/marl/autopool",
+        "thumbnail" : "papers/taslp2018_adaptive.png",
         "pdf"       : "papers/taslp2018_adaptive.pdf",
         "bib"       : "papers/taslp2018_adaptive.bib"
     },
@@ -255,6 +266,7 @@
         "date"      : "2018",
         "code"      : "https://github.com/cosmir/openmic-2018/",
         "data"      : "https://zenodo.org/record/1432913",
+        "thumbnail" : "papers/ismir2018_openmic.png",
         "pdf"       : "papers/ismir2018_openmic.pdf",
         "bib"       : "papers/ismir2018_openmic.bib"
     },
@@ -262,6 +274,7 @@
         "authors"   : ["mfu", "brm", "hc", "se", "jpb"],
         "venue"     : "19th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2018",
+        "thumbnail" : "papers/ismir2018_downbeat.png",
         "pdf"       : "papers/ismir2018_downbeat.pdf",
         "bib"       : "papers/ismir2018_downbeat.bib"
     },
@@ -269,6 +282,7 @@
         "authors"   : ["vat", "brm", "mim"],
         "venue"     : "InterSpeech",
         "date"      : "2018",
+        "thumbnail" : "papers/interspeech2018_bcn.png",
         "pdf"       : "papers/interspeech2018_bcn.pdf",
         "bib"       : "papers/interspeech2018_bcn.bib"
     },
@@ -278,6 +292,7 @@
         "date"      : "2017",
         "code"      : "https://github.com/bmcfee/segment_hierarchy_labels",
         "web"       : "http://journal.frontiersin.org/article/10.3389/fpsyg.2017.01337/full",
+        "thumbnail" : "papers/frontiers2017_evaluating.png",
         "bib"       : "papers/frontiers2017_evaluating.bib",
         "pdf"       : "papers/frontiers2017_evaluating.pdf"
     },
@@ -285,6 +300,7 @@
         "authors"   : ["brm", "jpb"],
         "venue"     : "18th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2017",
+        "thumbnail" : "papers/ismir2017_chord.png",
         "bib"       : "papers/ismir2017_chord.bib",
         "pdf"       : "papers/ismir2017_chord.pdf",
         "slides"    : "slides/ismir2017_chords.pdf",
@@ -294,6 +310,7 @@
         "authors"   : ["rmb", "brm", "js", "pl", "jpb"],
         "venue"     : "18th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2017",
+        "thumbnail" : "papers/ismir2017_salience.png",
         "bib"       : "papers/ismir2017_salience.bib",
         "pdf"       : "papers/ismir2017_salience.pdf",
         "notes"     : "Best student paper award",
@@ -305,6 +322,7 @@
         "date"      : "2017",
         "pdf"       : "https://link.springer.com/chapter/10.1007/978-3-319-63450-0_5",
         "venue"     : "Computational Analysis of Sound Scenes and Events",
+        "thumbnail" : "papers/casse2017.png",
         "bib"       : "papers/casse2017chap05.bib"
     },
     {   "title"     : "resampy: efficient sample rate conversion in python",
@@ -319,6 +337,7 @@
         "authors"   : [   "brm", "ejh", "ju"],
         "venue"     : "17th International Society for Music Information Retrieval (ISMIR) conference",
         "date"      : "2016",
+        "thumbnail" : "papers/ismir2016_eval.png",
         "bib"       : "papers/ismir2016_eval.bib",
         "slides"    : "slides/ismir2016_eval.pdf",
         "pdf"       : "papers/ismir2016_eval.pdf"
