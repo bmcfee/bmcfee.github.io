@@ -4,6 +4,7 @@
         "venue"     : "International society for music information retrieval (ISMIR) conference.",
         "date"      : "2025",
         "pdf"       : "papers/ismir2025_lose_the_frames.pdf",
+        "thumbnail" : "papers/ismir2025_lose_the_frames.png",
         "bib"       : "papers/ismir2025_lose_the_frames.bib"
     },
     {   "title"     : "Quantifying Regularity in Music Structure Analysis",
@@ -11,12 +12,14 @@
         "venue"     : "International society for music information retrieval (ISMIR) conference.",
         "date"      : "2025",
         "pdf"       : "papers/ismir2025_regularity.pdf",
+        "thumbnail" : "papers/ismir2025_regularity.png",
         "bib"       : "papers/ismir2025_regularity.bib"
     },
     {
         "title"     : "A listener-evaluated dataset of amateur karaoke singing and audiobook narration",
         "authors"   : ["etg", "pr", "brm"],
         "venue"     : "Audio Engineering Society (AES) International Conference on Artificial Intelligence and Machine Learning",
+        "thumbnail" : "papers/aesml2025.png",
         "date"      : "2025"
     },
     {   "title"     : "Investigating the Sensitivity of Pre-trained Audio Embeddings to Common Effects",
@@ -25,6 +28,7 @@
         "date"      : "2025",
         "code"      : "https://github.com/vdng9338/audio-embedding-sensitivity",
         "pdf"       : "https://hal.science/hal-04904470/",
+        "thumbnail" : "papers/icassp2025deng.png",
         "bib"       : "https://hal.science/hal-04904470v2/bibtex"
     },
     {   "title"     : "Hybrid Losses for Hierarchical Embedding Learning",
@@ -33,6 +37,7 @@
         "date"      : "2025",
         "code"      : "https://github.com/tiianhk/label-metric",
         "pdf"       : "https://arxiv.org/pdf/2501.12796",
+        "thumbnail" : "papers/icassp2025tian.png",
         "bib"       : "papers/icassp2025_hybrid.bib"
     },
     {   "title"     : "Using Pairwise Link Prediction and Graph Attention Networks for Music Structure Analysis",
@@ -42,6 +47,7 @@
         "code"      : "https://github.com/morgan76/LinkSeg",
         "web"       : "https://ismir2024program.ismir.net/poster_405.html#paper",
         "pdf"       : "https://hal.science/hal-04665063v2",
+        "thumbnail" : "papers/ismir2024buisson.png",
         "bib"       : "papers/ismir2024buisson.bib"
     },
     {   "title"     : "The Changing Sound of Music: An Exploratory Corpus Study of Vocal Trends Over Time",
@@ -49,6 +55,7 @@
         "venue"     : "International society for music information retrieval (ISMIR) conference.",
         "date"      : "2024",
         "web"       : "https://ismir2024program.ismir.net/poster_57.html#paper",
+        "thumbnail" : "papers/ismir2024georgieva.png",
         "bib"       : "papers/ismir2024georgieva.bib"
     },
     {
@@ -57,12 +64,14 @@
         "date":     "2024",
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
         "bib":      "papers/icassp2024roman.bib",
+        "thumbnail" : "papers/icassp2024spatial.png",
         "pdf":      "https://arxiv.org/abs/2401.12238"
     },
     {   "title"     : "Self-Supervised Learning of Multi-level Audio Representations for Music Segmentation",
         "authors"   : ["mb", "brm", "se", "hc"],
         "venue"     : "IEEE Transactions on Audio, Speech and Language Processing",
         "date"      : "2024",
+        "thumbnail" : "papers/taslp2024_selfsup.png",
         "pdf"       : "https://hal.science/hal-04485065/document",
         "bib"       : "papers/taslp2024_selfsup.bib"
     },
@@ -70,6 +79,7 @@
         "authors"   : ["mb", "brm", "se", "hc"],
         "venue"     : "International society for music information retrieval (ISMIR) conference.",
         "date"      : "2023",
+        "thumbnail" : "papers/ismir2023_repetition.png",
         "pdf"       : "papers/ismir2023_repetition.pdf",
         "bib"       : "papers/ismir2023_repetition.bib"
     },
@@ -78,6 +88,7 @@
         "venue"     : "International society for music information retrieval (ISMIR) conference.",
         "date"      : "2023",
         "code"      : "https://github.com/changhongw/audio-embedding-bias",
+        "thumbnail" : "papers/ismir2023_transfer.png",
         "pdf"       : "papers/ismir2023_transfer.pdf",
         "bib"       : "papers/ismir2023_transfer.bib"
     },
@@ -85,6 +96,7 @@
         "authors"   : ["ci", "brm"],
         "venue"     : "Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)",
         "date"      : "2023",
+        "thumbnail" : "papers/dcase2023_srir.png",
         "bib"       : "papers/dcase2023_srir.bib",
         "pdf"       : "papers/dcase2023_srir.pdf"
     },
@@ -92,6 +104,7 @@
         "authors"   : ["vl", "brm"],
         "venue"     : "Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)",
         "date"      : "2023",
+        "thumbnail" : "papers/dcase2023_efficient.png",
         "bib"       : "papers/dcase2023_efficient.bib",
         "pdf"       : "papers/dcase2023_efficient.pdf"
     },
@@ -99,6 +112,7 @@
         "authors"   : ["kc", "ji", "lmh", "brm", "ki", "yo", "ml", "st"],
         "venue"     : "Workshop on Detection and Classification of Acoustic Scenes and Events (DCASE)",
         "date"      : "2023",
+        "thumbnail" : "papers/dcase2023_foley.png",
         "bib"       : "papers/dcase2023_foley.bib",
         "pdf"       : "papers/dcase2023_foley.pdf"
     },
@@ -107,6 +121,7 @@
         "venue"     : "International conference on digital audio effects (DAFx)",
         "date"      : "2023",
         "code"      : "https://github.com/fisheggg/SFXlearner",
+        "thumbnail" : "papers/dafx2023_effects.png",
         "pdf"       : "https://dafx.de/paper-archive/2023/DAFx23_paper_30.pdf",
         "bib"       : "papers/dafx2023_guitar.bib"
     },
@@ -114,6 +129,7 @@
         "authors"   : ["mb", "brm", "se", "hc"],
         "venue"     : "International society for music information retrieval (ISMIR) conference.",
         "date"      : "2022",
+        "thumbnail" : "papers/ismir2022_multilevel.png",
         "pdf"       : "papers/ismir2022_multilevel.pdf",
         "bib"       : "papers/ismir2022_multilevel.bib"
     },
@@ -123,6 +139,7 @@
         "date": "2021",
         "venue"     : "Transactions of the International Society for Music Information Retrieval",
         "web":      "https://transactions.ismir.net/articles/10.5334/tismir.71/",
+        "thumbnail" : "papers/kinnaird2021automatic.png",
         "bib":      "papers/kinnaird2021automatic.bib"
     },
     {
@@ -130,6 +147,7 @@
         "authors":  ["ci", "brm"],
         "date":     "2021",
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
+        "thumbnail" : "papers/icassp2021mrpcen.png",
         "bib":      "papers/icassp2021ick.bib",
         "web":      "https://arxiv.org/abs/2102.03468"
     },
@@ -138,6 +156,7 @@
         "authors":  ["hhw", "cck", "qt", "msun", "brm", "jpb", "cw"],
         "date":     "2021",
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
+        "thumbnail" : "papers/icassp2021wu.png",
         "bib":      "papers/icassp2021wu.bib",
         "web":      "https://arxiv.org/abs/2102.03229"
     },
@@ -147,6 +166,7 @@
         "date"      : "2021",
         "venue"     : "IEEE Signal Processing Magazine",
         "title"     : "Interactive Learning of Signal Processing Through Music: Making Fourier Analysis Concrete for Students",
+        "thumbnail" : "papers/mueller2021interactive.png",
         "bib"       : "papers/mueller2021interactive.bib"
     },
     {   "title"     : "Audio-Based Music Structure Analysis: Current Trends, Open Challenges, and Applications",
