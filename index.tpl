@@ -142,7 +142,7 @@
               <div class="ml-4 text-sm space-x-1">
                 {% if pub.thumbnail %}
                 <div class="float-left">
-                    <img src="{{ pub.thumbnail }}" alt="thumbnail" class="h-16 object-cover rounded-lg shadow mr-4 mb-2">
+                    <img src="{{ pub.thumbnail }}" alt="thumbnail" class="h-16 object-cover rounded-lg shadow mr-4 mb-2 mt-2">
                 </div>
                 {% endif %}
                 <div>
