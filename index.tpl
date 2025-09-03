@@ -131,6 +131,20 @@
           </div>
         </section>
 
+        <section id="books" class="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-6 mb-8">
+          <header class="mb-4">
+            <h4 class="text-xl font-semibold">Books</h4>
+          </header>
+          <div class="text-gray-700">
+            <ul class="list-disc list-inside">
+              <li>
+                Digital Signals Theory (2023) [<a href="https://www.routledge.com/Digital-Signals-Theory/McFee/p/book/9781032200507#" class="text-blue-600
+                hover:underline">print</a> | <a href="https://brianmcfee.net/dstbook-site" class="text-blue-600 hover:underline">online</a>]
+              </li>
+            </ul>
+          </div>
+        </section>
+
         <!-- Publications panel -->
         <section id="pubs" class="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow p-6 mb-8">
           <header class="mb-4">
