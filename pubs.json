@@ -16,9 +16,11 @@
         "bib"       : "papers/ismir2025_regularity.bib"
     },
     {
-        "title"     : "A listener-evaluated dataset of amateur karaoke singing and audiobook narration",
+        "title"     : "A dataset of amateur karaoke singing and audiobook narration",
         "authors"   : ["etg", "pr", "brm"],
         "venue"     : "Audio Engineering Society (AES) International Conference on Artificial Intelligence and Machine Learning",
+        "pdf"       : "papers/aesml2025.pdf",
+        "bib"       : "papers/aesml2025.bib",
         "thumbnail" : "papers/aesml2025.png",
         "date"      : "2025"
     },
