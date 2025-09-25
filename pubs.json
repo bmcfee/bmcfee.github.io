@@ -56,6 +56,7 @@
         "authors"   : ["etg", "pr", "brm"],
         "venue"     : "International society for music information retrieval (ISMIR) conference.",
         "date"      : "2024",
+        "pdf":      "https://zenodo.org/record/14877317/files/000022.pdf",
         "web"       : "https://ismir2024program.ismir.net/poster_57.html#paper",
         "thumbnail" : "papers/ismir2024georgieva.png",
         "bib"       : "papers/ismir2024georgieva.bib"
@@ -352,7 +353,8 @@
         "bib"       : "papers/ismir2015_augmentation.bib",
         "pdf"       : "papers/ismir2015_augmentation.pdf",
         "slides"    : "slides/ismir2015_muda.pdf",
-        "code"      : "https://github.com/bmcfee/muda"
+        "code"      : "https://github.com/bmcfee/muda",
+        "notes"     : "ISMIR 2025 10-year test of time runner up"
     },
     {   "title"     : "Hierarchical evaluation of segment boundary detection",
         "authors"   : [   "brm", "on", "jpb" ],

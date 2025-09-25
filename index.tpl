@@ -163,8 +163,14 @@
                   <div class="float-right">
                   {{ pub.date }}
                   </div>
-                  <div style="font-size: 120%">
-                            {{ pub.title }}
+                  <div style="font-size: 120%; font-weight: bold">
+                    {% if pub.pdf %}
+                        <a href="{{ pub.pdf }}" class="hover:underline" title="pdf">{{ pub.title }}</a>
+                    {% elif pub.web %}
+                        <a href="{{ pub.web }}" class="hover:underline" title="web">{{ pub.title }}</a>
+                    {% else %}
+                        {{ pub.title }}
+                    {% endif %}
                   </div>
                   <div class="text-sm text-gray-600 float-right">
                     {% if pub.arxiv %}<a href="{{ pub.arxiv }}" class="text-blue-600 hover:underline" title="arXiv"><i class="fa fa-file" aria-hidden="true" role="img" aria-label="arχiv"></i></a>{% endif %}
