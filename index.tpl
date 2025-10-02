@@ -106,7 +106,7 @@
                 </a>
                 (Music Technology)
               </li>
-              <li> <a href="https://mariosgly.github.io/">Marios Glytsos</a> (Music Technology)</li>
+              <li> <a href="https://mariosgly.github.io/" class="text-blue-600 hover:underline">Marios Glytsos</a> (Music Technology)</li>
               <li> Aramis Tanelus (Data Science)</li>
             </ul>
             <p class="mt-4 font-medium">Alumni:</p>
