@@ -139,7 +139,10 @@
             <ul class="list-disc list-inside">
               <li>
                 Digital Signals Theory (2023) [<a href="https://www.routledge.com/Digital-Signals-Theory/McFee/p/book/9781032200507#" class="text-blue-600
-                hover:underline">print</a> | <a href="https://brianmcfee.net/dstbook-site" class="text-blue-600 hover:underline">online</a>]
+                hover:underline">print</a> | <a href="https://brianmcfee.net/dstbook-site"
+                class="text-blue-600 hover:underline">online</a> | <a
+                href="https://brianmcfee.net/dstbook-site/content/errata.html" class="text-blue-600
+                hover:underline">errata</a>]
               </li>
             </ul>
           </div>
