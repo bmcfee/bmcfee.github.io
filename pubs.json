@@ -1,4 +1,14 @@
 {   "pubs": [
+    {   "title"     : "RWC Revisited: Towards a Community‑Driven MIR Corpus",
+        "authors"   : ["sb", "jz", "vam", "brm", "tn", "goto", "mmul"],
+        "venue"     : "Transactions of the International Society for Music Information Retrieval",
+        "date"      : "2026",
+        "web"       : "https://transactions.ismir.net/articles/10.5334/tismir.326",
+        "data"      : "https://zenodo.org/communities/rwc-music/records?q=&l=list&p=1&s=10&sort=newest",
+        "code"      : "https://github.com/rwc-music/rwc-annotations",
+        "thumbnail" : "papers/rwc2.png",
+        "bib"       : "papers/rwc2.bib"
+    },
     {   "title"     : "Lose the Frames: Event-based Metrics for Efficient Music Structure Analysis Evaluations",
         "authors"   : ["qx", "brm"],
         "venue"     : "International society for music information retrieval (ISMIR) conference.",

@@ -76,6 +76,11 @@
         "ht": {"name": "Tian, H.", "url": "https://www.qmul.ac.uk/eecs/people/profiles/tianhaokun.html"},
         "sl": {"name": "Lattner, S.", "url": "https://csl.sony.fr/people/stefan-lattner/"},
         "cs": {"name": "Saitis, C.", "url": "https://www.qmul.ac.uk/eecs/people/profiles/saitischaralampos.html"},
-        "qx": {"name": "Xi, Q.", "url": "https://tomxi.weebly.com/"}
+        "qx": {"name": "Xi, Q.", "url": "https://tomxi.weebly.com/"},
+        "sb": {"name": "Balke, S.", "url": "https://www.audiolabs-erlangen.de/fau/assistant/balke"},
+        "jz": {"name": "Zeitler, J.", "url": "https://www.audiolabs-erlangen.de/fau/assistant/zeitler"},
+        "vam": {"name": "Arifi-Müller, V.", "url": "https://www.audiolabs-erlangen.de/fau/assistant/arifi-mueller"},
+        "tn": {"name": "Nakano, T.", "url": "https://staff.aist.go.jp/t.nakano/"},
+        "goto": {"name": "Goto, M.", "url": "https://staff.aist.go.jp/m.goto/index-e.html"}
     }
 }
