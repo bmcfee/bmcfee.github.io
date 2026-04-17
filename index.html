@@ -100,17 +100,17 @@
           </header>
           <div class="text-gray-700">
             <ul class="list-disc list-inside">
-              <li>
-                <a href="https://tomxi.weebly.com/" class="text-blue-600 hover:underline">
-                  Qingyang (Tom) Xi
-                </a>
-                (Music Technology)
-              </li>
               <li> <a href="https://mariosgly.github.io/" class="text-blue-600 hover:underline">Marios Glytsos</a> (Music Technology)</li>
               <li> Aramis Tanelus (Data Science)</li>
             </ul>
             <p class="mt-4 font-medium">Alumni:</p>
             <ul class="list-disc list-inside">
+              <li>
+                <a href="https://tomxi.weebly.com/" class="text-blue-600 hover:underline">
+                  Dr. Qingyang (Tom) Xi
+                </a>
+                (Music Technology)
+              </li>
               <li>
                 <a href="https://elenatheodora.com/" class="text-blue-600 hover:underline">
                   Dr. Elena Georgieva
