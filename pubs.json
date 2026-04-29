@@ -1,4 +1,14 @@
 {   "pubs": [
+    {
+        "title"     : "Evaluating compositional structure in audio representations",
+        "authors"   : ["cc", "bs", "brm", "jpb"],
+        "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",
+        "date"      : "2026",
+        "pdf"       : "https://arxiv.org/pdf/2603.13685",
+        "bib"       : "papers/icassp2026_compositional.bib",
+        "thumbnail" : "papers/icassp2026_compositional.png",
+        "code"      : "https://github.com/chuyangchencd/audio-compositionality"
+    },
     {   "title"     : "RWC Revisited: Towards a Community‑Driven MIR Corpus",
         "authors"   : ["sb", "jz", "vam", "brm", "tn", "goto", "mmul"],
         "venue"     : "Transactions of the International Society for Music Information Retrieval",

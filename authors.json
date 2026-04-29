@@ -81,6 +81,8 @@
         "jz": {"name": "Zeitler, J.", "url": "https://www.audiolabs-erlangen.de/fau/assistant/zeitler"},
         "vam": {"name": "Arifi-Müller, V.", "url": "https://www.audiolabs-erlangen.de/fau/assistant/arifi-mueller"},
         "tn": {"name": "Nakano, T.", "url": "https://staff.aist.go.jp/t.nakano/"},
-        "goto": {"name": "Goto, M.", "url": "https://staff.aist.go.jp/m.goto/index-e.html"}
+        "goto": {"name": "Goto, M.", "url": "https://staff.aist.go.jp/m.goto/index-e.html"},
+        "bs": {"name": "Steers, B.", "url": "https://steinhardt.nyu.edu/people/bea-steers"},
+        "cc": {"name": "Chen, C."}
     }
 }
