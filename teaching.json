@@ -1,4 +1,7 @@
 {   "classes": [
+        {"date":    "S26",
+         "desc":    "(NYU) MPATE-GE 2623: Music Information Retrieval"
+        },
         {"date":    "F23, F24",
          "desc":    "(NYU) DS-GA 1006: Capstone Project in Data Science"
         },
@@ -8,7 +11,7 @@
         {"date":    "S19, S20, S21, S22, S23",
          "desc":    "(NYU) DS-GA 1004: Big Data"
         },
-        {"date":    "F18, F19, F20, S21, F21, F22, F23, F24",
+        {"date":    "F18, F19, F20, S21, F21, F22, F23, F24, F25",
          "desc":    "(NYU) MPATE-GE 2599: Fundamentals of Digital Signals Theory I"
         },
         {"date":    "S14",
