@@ -108,8 +108,7 @@
               <li>
                 <a href="https://tomxi.weebly.com/" class="text-blue-600 hover:underline">
                   Dr. Qingyang (Tom) Xi
-                </a>
-                (Music Technology)
+                </a>, 2026 (Music Technology)
               </li>
               <li>
                 <a href="https://elenatheodora.com/" class="text-blue-600 hover:underline">
