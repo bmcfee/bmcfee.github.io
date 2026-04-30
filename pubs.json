@@ -1,5 +1,15 @@
 {   "pubs": [
     {
+        "title"     : "The Vocal Eras Tour: Microtiming trends across decades and genres",
+        "authors"   : ["etg", "df", "ecm", "vc", "mfu", "pr", "brm"],
+        "venue"     : "Transactions of the International Society for Music Information Retrieval (TISMIR)",
+        "date"      : "2026",
+        "web"       : "https://transactions.ismir.net/articles/10.5334/tismir.278",
+        "thumbnail" : "papers/tismir2026_eras.png",
+        "bib"       : "papers/tismir2026_eras.bib",
+        "data"      : "https://github.com/elenatheodora/MSD_Annotated_Onsets"
+    },
+    {
         "title"     : "Evaluating compositional structure in audio representations",
         "authors"   : ["cc", "bs", "brm", "jpb"],
         "venue"     : "International conference on acoustics, speech and signal processing (ICASSP).",

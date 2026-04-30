@@ -83,6 +83,9 @@
         "tn": {"name": "Nakano, T.", "url": "https://staff.aist.go.jp/t.nakano/"},
         "goto": {"name": "Goto, M.", "url": "https://staff.aist.go.jp/m.goto/index-e.html"},
         "bs": {"name": "Steers, B.", "url": "https://steinhardt.nyu.edu/people/bea-steers"},
-        "cc": {"name": "Chen, C."}
+        "cc": {"name": "Chen, C."},
+        "df": {"name": "Fernandes, D."},
+        "ecm": {"name": "Cajetan Menezes, E."},
+        "vc": {"name": "Coelho, V."}
     }
 }
