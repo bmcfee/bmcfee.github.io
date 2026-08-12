@@ -22,7 +22,9 @@
       gtag('js', new Date());
       gtag('config', 'G-TZYH0MJJ8M');
     </script>
-
+    <div class="sticky top-0 z-50 bg-amber-100 border-b border-amber-200 text-amber-900 px-4 py-3 text-center text-sm shadow-sm">
+        Note: I am on sabbatical for the 2026–2027 academic year.
+    </div>
     <div class="flex container mx-auto py-8">
       <!-- Sidebar -->
       <aside id="navigator" class="md:w-1/4 md:pr-6 sticky md:top-20 self-start">
