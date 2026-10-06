@@ -86,6 +86,10 @@
         "cc": {"name": "Chen, C."},
         "df": {"name": "Fernandes, D."},
         "ecm": {"name": "Cajetan Menezes, E."},
-        "vc": {"name": "Coelho, V."}
+        "vc": {"name": "Coelho, V."},
+        "tk": {"name": "Kim, T.", "url": "https://kimtae55.github.io/"},
+        "ae": {"name": "Eads, A.", "url": "https://www.amandaeads.com/"},
+        "tm": {"name": "McAllister, T.", "url": "https://wp.nyu.edu/byunlab/"},
+        "hs": {"name": "Shu, H.", "url": "https://wp.nyu.edu/haishu/"}
     }
 }

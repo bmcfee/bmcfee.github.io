@@ -1,5 +1,14 @@
 {   "pubs": [
     {
+        "title"     : "Self-supervised Learning on Lingual Ultrasound Video Encodes Clinically Meaningful Articulatory Structure of Rhotic Production in Residual Speech Sound Disorder",
+        "authors"   : ["tk", "ae", "brm", "tm", "hs"],
+        "venue"     : "International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)",
+        "date"      : "2026",
+        "thumbnail" : "papers/miccai2026.png",
+        "bib"       : "papers/miccai2026.bib",
+        "pdf"       : "https://papers.miccai.org/miccai-2026/paper/3947_paper.pdf"
+    },
+    {
         "title"     : "The Vocal Eras Tour: Microtiming trends across decades and genres",
         "authors"   : ["etg", "df", "ecm", "vc", "mfu", "pr", "brm"],
         "venue"     : "Transactions of the International Society for Music Information Retrieval (TISMIR)",
